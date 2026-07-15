@@ -1,0 +1,4452 @@
+PUBLIC DATA DIRECTORY
+First Edition
+April 1993
+Published by: New York City Office of the Mayor
+Office of Operations
+COMMISSION ON PUBLIC INFORMATION AND COMMUNICATION
+MEMBERS
+Hon. Andrew stein, Chair, City Council President
+Anne Compoccia, Public Member
+Idilio Gracia-Pena, Commissioner,
+Department of Records and Information Services
+Hon. Jose Rivera, Member, New York City Council
+Harvey Robins, Director, Mayor's Office of Operations
+Gene Russianoff, Public Member
+o. Peter Sherwood, corporation Counsel
+William Squadron, Commissioner,
+Department of Telecommunications and Energy
+Peter M. Williams, Public Member
+iACKNOWLEDGEMENTS
+The Commission on Public Information and Communication
+gratefully acknowledges a grant received from the New York Times
+Foundation for the design and preparation of the Public Data
+Directory and valuable assistance received from the Community
+service Society and the Fund. for the City of New York. In
+particular, theCommission·thanksPatricia A. Friedland, Director,
+Office of Information, Community service Society, and Bruce Posner,
+Vice President, Fund for the City of New York, for their support
+and encouragement in making this first edition of the Public Data
+Directory a reality.
+iiINTRODUCTION
+section 1062 of the New York City Charter requires the New
+York city commission on Public Information and Communication to
+pUblish a "Public Data Directory" describing the computerized
+databases maintained by City agencies. This is the first "Public
+Data Directory" pUblished pursuant to that requirement.
+Publication of this first edition represents an important step
+towards fulfilling the goal of improving pUblic access to
+information about the wide variety of computerized data maintained
+by the city. Information maintained by City agencies is
+increasingly being stored in computers. Until now, however, there
+has been no source of information available to researchers,
+community groups, businesses, and other members of the pUblic
+regarding the types of electronic data kept by City agencies, much
+of which is requ{red by law to be accessible to the pUblic.
+The New York City commission on Public Information and
+Communication is a new City agency, established by the 1989
+amendments to the New York City Charter. The Commission is chaired
+by the President of the City Council, and includes public members
+as well as representatives of the Mayor, the City Council and a
+number of city agencies. In addition to pUblication of the Public
+Data Directory, the Commission I s responsibilities include education
+and outreach to assist the pUblic in obtaining access to City
+iiiinformation, and developing strategies for the use of new
+communications technologies to improve access to and distribution
+of city data. In June 1991, the Commission presented the City
+Council with a comprehensive proposal for cablecasting the
+proceedings of the Council and the City Planning Commission.
+This Public Data Directory represents the joint efforts of the
+members of the Commission and, in particular, the staff of the
+Mayor's Office of Operations and the Law Department. The
+Commission also wishes to acknowledge the valuable assistance
+provided by the agencies themselves in preparing the Directory.
+For each agency, the Directory provides a brief description of
+the agency's mission, the name and phone number of a, "Public
+Liaison" available to assist members of the pUblic, and brief
+descriptions of the contents of the databases. The "Users Notes"
+which follow this Introduction contain important information on
+methods of access, legal restrictions on access to certain records,
+and other information.
+We hope that the Directory will assist you in locating sources
+of information and in formulating records requests to City
+agencies. At present, only a few agencies offer members of the
+pUblic "on-line"access to electronic data. For that reason, in
+most instances it will be necessary for you to make a Freedom of
+Information Law request to the agency in order to obtain the
+ivrecords you need. The Commission believes that significant
+opportunities exist to expand "on-line" access to City data and
+intends to work to encourage City agencies towards this goal.
+Publication of this Directory is a first for New York City
+government. Our goal has been to produce a Directory that is "user
+friendly" for all members of the pUblic, including both those who
+are knowledgeable about computer data and those who are not. In
+future editions, we hope ~o expand the listings, add to the
+database descriptions, and provide more information regarding
+computer formats. We welcome your comments on ways to improve
+future editions and methods of access to City agency electronic
+data. Attached at page xiii of the Directory you will find a
+questionnaire soliciting your 'views and recommendations on the
+Directory. Please take the time to fill it out and return to the
+Commission, c/o Office of the President of the City Council, City
+Hall, N.Y., N.Y. 10007.
+sincerely,
+NEW YORK CITY COMMISSION
+ON PUBLIC INFORMATION AND
+COMMUNICATION
+vUSERS NOTES
+1. Access
+You may obtain information from the databases listed in the
+Directory by making a written request to the agency Records Access
+Officer under the New York state Freedom of Information Law
+("FOIL") (Public Officers Law section 84 et seq.). See attached
+sample FOIL request· letter atpagex.
+FOIL provides that all records of an agency are available to
+the pUblic, except to the extent that records or portions thereof
+fall within one or more of the grounds for denial of access
+appearing in section 87(2) (a) through (i) of the law. For example,
+a record may be denied where an agency determines that disclosure
+of a record pertaining to an individual would result in "an
+unwarranted invasion of personal privacy".· If an agency denies
+access to a record, it must do so in writing and should specify the
+grounds for denial. You may appeal a denial of access to a
+designated appeals officer at the agency. A sample appeal letter
+is attached at page xii.
+In some instances, city agencies may be required to keep
+certain information confidential (~, under tax secrecy laws or
+• A useful brochure on the Freedom of Information Law may be
+obtained from the committee on Open Government, N.Y.S. Department
+of State, 162 Washington Avenue, N.Y. 12231, or call (518) 474­
+2518.
+viprovisions relating to private medical records). In most
+instances, the Directory identifies the relevant laws which require
+confidentiality.
+In general, you may request that electronic data be provided
+to you in either a computer tape/disk form or in the form of a
+printout. Under FOIL, agencies are entitled to charge for the
+"actual cost of reproducing" electronic data, i.e., the cost of
+computer time etc. Howev~r , since it is often diff icul t to
+determine the actual cost of computer use, agencies will usually
+charge 25 cents per sheet for printouts or the cost of the tape or
+disks for electronic reproduction. Whether or not you wish to
+obtain data in hard copy or computer-usable form will depend upon
+your needs and the compatibility of your hardware and software with
+that of the agency.
+2. customized Data
+FOIL allows members of the public access to records which are
+maintained by City agencies in the regular course of business and
+they are under no legal obligation to create new records or
+reformulate existing records in order to respond to requests for
+information from the pUblic. See FOIL Section 89 (5) (g) In
+general, electronic information that can be retrieved through use
+of existing computer programs must be disclosed by the agency.
+However, if the agency can only retrieve the information you
+request by engaging in reprogramming, it is not obliged to do so.
+viiThis situation can arise either where the information you request
+is not retrievable under existing programs or where it is
+intermingled with confidential or FOIL-sensitive data and cannot be
+extracted without reprogramming. Note, however, that where removal
+or screening of confidential or FOIL-sensitive date presents a
+problem, it may sometimes be more cost-effective for the agency to
+reprogram than to manually delete portions of a printout. Where
+these situations arise, possible solutions should be discussed with
+the agency.
+3. User Systems Requirements
+In making requests to City agencies for electronic data, you
+should be aware that City agencies are not required to make data
+format or other changes in order to ensure hardware and/or software
+compatibility with your computer system. In many instances, agency
+databases reside in large mainframe systems and the data is not
+readily usable by personal computer systems. In other instances,
+special application software is required to view the data. The
+agency Public Liaisons listed in the Directory are available to
+provide you with access to further information regarding hardware
+and software compatibility. Discussion with agency personnel may
+suggest ways to accommodate your needs without imposing additional
+burdens upon the agency.
+4. Coverage of Directory
+The Directory contains entries for most Mayoral agencies and
+viiifor the City Comptroller. At the time of publication, information
+was not available for three large City agencies: the Human
+Resources Administration, the Department of Housing Preservation
+and Development, and the Police Department. For these agencies,
+the Directory includes the name of a Public Liaison who is
+available to answer questions regarding the availability of
+computerized data. A number of other, generally smaller, agencies
+do not maintain computerized databases (~, the Department of
+Cultural Affairs). The Co~ission expects to include information
+regarding additional Mayoral agencies as well as various non­
+Mayoral agencies in sUbsequent editions of the Directory.
+The Directory identifies databases which contain information
+relating to the regulatory functions or statutory duties of an
+agency. Databases which are used for agency administrative support
+functions are not included (JLS:.. accounting systems, personnel
+record systems, equipment inventory systems).
+ixSAMPLE FOIL REOUEST
+Name of Agency Records Access Officer
+Name of Agency
+Agency Address
+Re: Freedom of Information Law Request
+Dear
+Pursuant to the Freedom of Information Law, I hereby request
+a computer printout of records maintained by your agency in
+computerized form [provide name of database, if known] •••
+Specifically, I request the following: [attempt to identify the
+records in which you are interested as clearly as possible]
+If there are any fees for copying the records requested,
+please inform me before filling the request [or ••• please supply
+the records without informing me if the fees are not in excess of
+$-]
+As you know, the Freedom of Information Law requires that an
+agency respond to a request within five business days of receipt by
+granting or denying access or by furnishing a written
+acknowledgement of receipt and a statement of the approximate date
+when the request will be granted or denied. Therefore, I would
+appreciate a response as soon as possible and look forward to
+•• If you are seeking electronic reproduction of a record in a
+tape or disk format, this should be specified.
+xhearing from you shortly.
+If for any reason any portion of my request is denied, please
+inform me of the reasons for the denial in writing and provide the
+name and address of the person to whom an appeal should be
+directed.
+Sincerely,
+Name
+Address, City, Zip Code
+xiSAMPLE APPEALS LETTER
+Name of Agency Appeals Officer
+Name of Agency
+Agency Address
+Re: Appeal of FOIL Determination
+Dear
+I hereby appeal the denial of access regarding my request,
+which was made on (date) and sent to (name of
+records access officer).
+The records that were denied include: (enumerate
+the records that were denied).
+As required by the Freedom of Information Law, the person or
+body designated to determine appeals is required to respond within
+10 business days of the receipt of an appeal. If the records are
+denied on appeal, the law requires that I be provided with a
+written explanation of the reasons for further denial.
+Sincerely,
+Signature
+Name
+Address
+City, State, Zip Code
+xiiPUBLIC DATA DIRECTORY
+QUESTIONNAIRE
+The New York City Commission on Public Information and
+Communication welcomes your comments and suggestions on ways to
+improve future editions of the Public Date Directory and to expand
+methods of access to City agency electronic data. Please fill out
+this questionnaire and sent to the Commission at ---------
+1. How did you obtain a copy of the Public Data Directory?
+2. What methods for distribution of the Public Data Directory do
+you think would be most effective in reaching interested members of
+the pUblic?
+3. Please describe yourself as a "user type"
+not-for-profit individual
+business other (please describe)
+researcher
+xiii4. Has the Public Data Directory been useful to you as a research
+or reference tool? Please describe.
+5. What improvements in the Public Data Directory would you
+recommend for future ,editions?,
+6. If you have used the Public Data Directory to make requests to
+City agencies for electronic data, please provide the following
+information regarding each such request (use extra sheets if
+necessary) :
+a. Name of agency
+b. Name of database
+c. Nature of data requested
+d. Form in which data was requested.
+(i.e., computer tape, disk, printout, or
+other)
+xive. Did you encounter any problems in
+obtaining access to the data you requested? If so,
+please describe.
+7. What improvements'should be made in methods of access to City
+electronic data?
+8. Other comments
+xvTAB L E o F CONTENTS
+Department of
+Department of
+------------------------------------------------------------------
+AGENCY
+AGING, ~-------------------------- Department for theBUILDINGS, Department of
+BUSINESS SERVICES, Department of
+CAMPAIGN FINANCE Board New York City
+CITY PLANNING, Department of
+COMPTROLLER, Office of the NYC
+CONSUMER AFFAIRS, Department of
+CONTRACTS; Mayor's Office of
+CORRECTION, Department of
+EMPLOYMENT, Department of
+ENVIRONMENTAL PROTECTION,
+FINANCE,
+FINANCIAL INFORMATION SERVICES Aqency --------------FIRE Department --:=~-___:_-__:_-_::::
+GENERAL SERVICES, Department of
+HEALTH, ==~====~~~~~====~~==~ Department ofHOUSING PRESERVATION AND DEVELOPMENT, Department of
+HUMAN RESOURCES Administration
+JUVENILE JUSTICE, Department of
+LABOR RELATIONS, Office of
+LANDMARKS PRESERVATION Commission -------------------LAW DepartmentLOFT BOARD -----------------:=N=e-W-Y==--o-r':'""k--=C:-ri-:"t-y
+MANAGEMENT AND BUDGET Office of
+MENTAL HEALTH, M. RETARD. , ALCO. SERV., Department of
+PARKS AND RECREATION, Department of
+PERSONNEL, --:-_--.- Department of
+POLICE Department
+PROBATION, Department ofPUBLIC SAFE=T=Y~,-----~O~f~f~i~c-e-o-f~t~h~e~D~e-puty Mayor for
+TRANSPORTATION,
+YOUTH SERVICES,
+xvi
+PA G E
+1
+4
+lS
+20
+22
+32
+40
+42
+44
+47
+49
+S4
+6S
+67
+71
+7S
+87
+89
+91
+96
+98
+100
+102
+104
+109
+112
+117
+121
+123
+12S
+128
+130
+132
+134
+137
+139
+151AGENCY
+DEPARTMENT FOR THE AGING
+2 Lafayette Street, 7th Floor
+New York, N.Y.
+10007
+PUBLIC LIAISON
+Helene Wolff
+Director of Public Affairs
+MISSION STATEMENT
+I PHONE:
+212-442-1322
+I FAX:
+212-442-1096
+I PHONE:
+212-442-1111
+The Department for the Aging helps improve the quality of life for older residents of New
+York City. Under the Federal Older Americans Act, the State Community Services for
+the Elderly Program, and with significant City support, the Department promotes and
+coordinates the development and provision of accessible services for older persons, and
+serves as their advocate. Both directly and through contracts with community agencies,
+the Department supports a broad range of services to help maintain the independence
+and participation of older people. These services include nutrition, home care, care
+management, transportation, legal services, employment services, assistance to crime
+victims, information and referral, and health promotion. The Department monitors the
+quality, cost, and volume of services to older persons.
+11---------------------------------------------------------------1I AGENCY: Department For The Aqinq Paqe 1 of 2 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Client Information
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+This system processes information collected on New York
+City's elderly population who are served by the Department's
+400+ service providers. The processed information is used
+for both Federal, State, and City reportinq and for use by
+DFTA's Research and Planninq units.
+DATABASE CONTENTS
+Proqram reports (Individu,l client data is confidential),
+demoqraphic statistics, research/planninq, federal/state
+reimbursements.
+APPLICATION NAME: Grants Manaqement
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This system controls, by Cost Center, the bUdqets and expenses
+for each of the Department's 400+ service providers. The
+system ensures that prompt reimbursements occur each month to
+these service orqanizations to assure continuous cash flow for
+necessary purchases of provisions, staples, qoods, and other
+materials.
+DATABASE CONTENTS
+Miscellaneous statistics, qrants/specific funded proqrams,
+federal/state qrants, service contractors, contractor
+directory.
+21---------------------------------------------------------------1I AGENCY: Department For The Aqinq Paqe 2 of 2 I
+1---------------------------------------------------------------1
+APPLICATION NAME: HEAP VI
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+This System assists eliqible senior citizens to apply for the
+Home Enerqy Assistance Proqram (HEAP) which pays for some or
+all of a senior's home heatinq bills. The HEAP proqram is
+State funded and administered by DFTA for New York city's
+elderly population.
+DATABASE CONTENTS
+Home Enerqy Assistance Proqram (HEAP), administrative reports,
+cash qrants, client directory (Individual Client data is
+confidential), vendor payments, revenue/expenditure statistics.
+APPLICATION NAME: Performance Based System (PBS)
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+This system controls, by unit cost, the Home Care services
+provided by each of the DFTA's Home Care providers.
+Reimbursement to providers is based on the number of Home
+Care units delivered each month mUltiplied by the
+aqreed-upon cost for each Home Care unit. Home Care
+services are the only services which require a unit Cost and
+for which reimbursement is based on a provider's performance
+of service delivery.
+DATABASE CONTENTS
+Contractor payments, federal/state reimbursements, federal/
+state qrants, service contractors.
+3AGENCY
+DEPARTMENT OF BUILDINGS
+60 Hudson Street, 14th Floor
+New York, N.Y.
+10013
+PUBLIC LIAISON
+Mark Ritze
+Asst. Commissioner - Management Services
+MISSION STATEMENT
+I" PHONE:
+212-312-8000
+I FAX:
+212-312-8065
+I PHONE:
+212-312-8025
+The Department of Buildings oversees building construction and alteration in the City
+and enforces the Building and Electrical Codes, Zoning Resolution, State Multiple
+Dwelling Law, and energy, safety, labor, and other laws related to construction activity.
+The Department inspects construction and electrical,plumbing, and elevator installations.
+Department inspectors respond to complaints about the structural integrity of buildings
+and inspect places of assembly and other special occupancies. The Department
+periodically inspects elevators and uninsured boilers in commercial buildings and
+six-family dwellings. The Department regularly inspects major new buildings under
+construction for compliance with public safety regulations.
+41---------------------------------------------------------------1I AGENCY: Department of Buildings Page 1 of 10 I
+J---------------------------------------------------------------1
+APPLICATION NAME: Billing and Aging Report
+YEAR ACTIVATED: 12/85
+APPLICATION DESCRIPTION
+This program produces a citywide summary report by month and
+year, of all billings and collections for the Department of
+Buildings. It includes elevators, boilers and public
+assembly inspections as well as illuminated sign permits.
+DATABASE CONTENTS
+Fee collections/accounting~
+APPLICATION NAME: BIS-Accounting Module
+YEAR ACTIVATED: 12/85
+APPLICATION DESCRIPTION
+This module processes and accounts for fees and fines collected
+by DOB for filings, permits, licenses, certificates and other
+processing fees, and produces reports for management analysis.
+DATABASE CONTENTS
+Management reporting, lock boxes, fine collections/accounting,
+building modifications/repairs, building licenses, building
+demolitions, building constructions, building applications/
+certificates/permits, financial reporting, fee collections/
+accounting, financial accounting.
+APPLICATION NAME: BIS-Application Processing Module
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This module collects the necessary information for processing
+all applications for new construction, various types of repairs
+and alterations, demolitions, signs, plumbing repairs, and
+subdivisions.
+DATABASE CONTENTS
+Building modifications/repairs, building demolitions, building
+constructions, building code inspections/violations, building
+applications/certificates/permits, fee collections/accounting.
+51---------------------------------------------------------------1I AGENCY: Department of Buildings Page 2 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: BIS-Complaint Tracking Module
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This system records and tracks all complaints from city
+officials, community Boards and the public regarding various
+conditions at building work sites and at existing structures.
+DATABASE CONTENTS
+Public complaints, accidents, building constructions, building
+demolitions, building modifications/repairs, other complaints,
+building/structure inspections, management reporting.
+APPLICATION NAME: BIS-Pre-Filing/Fee Estimation
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This module handles the initial intake of work permit
+applications into the BIS System and computes fees for work
+to be performed. The module is also used for fee adjustments
+and building cluster processing.
+DATABASE CONTENTS
+Management reporting, building applications/certificates/
+permits, building demolitions, building constructions,
+miscellaneous billings.
+APPLICATION NAME: BIS-Landmarks Module
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+The module is the direct on-line link between the Landmarks
+Preservation Commission and the Department of Buildings. It
+allows LPC to designate properties directly on DOB's database.
+DATABASE CONTENTS ,
+Landmark structures, landmark sites, management reporting.
+61---------------------------------------------------------------1I AGENCY: Department of Buildings Page 3 of 10 I
+1---------------------------------------------------------------1APPLICATION NAME: BIS-Permit Issuance Module
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+Permits for new construction, alterations, demolitions,
+equipment use, foundations and signs are issued in this module.
+All remaining fees and civil penalties are collected here.
+DATABASE CONTENTS
+Building modifications/repairs, building licenses, building
+demolitions, building constructions, building code inspections/
+violations, building applications/certificates/permits, finance
+licenses/permits, fee collections/accounting.
+APPLICATION NAME: BIS-Plan Examinations Module
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+In this module, items required to satisfy the plan examination
+are tracked and recorded. Applications can be approved for
+permit(s) at this time, or rejected until all necessary
+documentation is in order.
+DATABASE CONTENTS
+Building applications/certificates/permits, building
+demolitions, building constructions, building modifications/
+repairs, city planning licenses/permits, city streets/
+addresses/zoning/election districts/political subdivisions/
+community boards, land use, landmark sites, landmark
+structures, management reporting.
+APPLICATION NAME: BIS-property Profile Tracking Module
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This module tracks a wide variety of information for every
+building in the five boroughs, inclUding geographical data, all
+applications processed and permits received, violations, owner­
+ship data, landmarks designations, land use and finance data.
+DATABASE CONTENTS
+Building applications/certificates/permits, building
+constructions, building code inspections/violations, building
+demolitions, building modifications/repairs, address directory,
+geographics/maps, land use, landmark sites, landmark
+structures, management reporting, city owned properties,
+property owners.
+71---------------------------------------------------------------1I AGENCY: Department of Buildings Page 4 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Boiler and Elevator Periodic Reinspection
+YEAR ACTIVATED: 3/85
+APPLICATION DESCRIPTION
+Reinspection of Boilers and Elevators that were in violation
+of the building codes. These reinspections are billed.
+DATABASE CONTENTS
+Public safety inspections, building code inspections/
+violations, miscellaneous billings.
+APPLICATION NAME: Boiler Inspection Billing system
+YEAR ACTIVATED: 12/82
+APPLICATION DESCRIPTION
+Tracks the annual inspection and billing of boilers.
+DATABASE CONTENTS
+Miscellaneous billings, public safety inspections, building
+code inspections/violations.
+APPLICATION NAME: Boiler Inspection Routing and Query system
+YEAR ACTIVATED: 2/85
+APPLICATION DESCRIPTION
+This is an on-line system which produces routing of periodic
+boiler inspections and monitors inspection dispositions.
+DATABASE CONTENTS
+Public safety inspections, miscellaneous billings, building
+code inspections/violations.
+APPLICATION NAME: Construction site safety System
+YEAR ACTIVATED: 6/85
+APPLICATION DESCRIPTION
+Tracks compliance with safety codes for high rise
+construction of new buildings within the city.
+DATABASE CONTENTS
+Building constructions, noise complaints/violations.
+81---------------------------------------------------------------1I AGENCY: Department of Buildings Page 5 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Electrical Control Inspection System
+YEAR ACTIVATED: 4/85
+APPLICATION DESCRIPTION
+This system tracks the flow of Bureau of Electrical Control
+(BEC) Applications for electrical work from initiation throuqh
+inspection and certificate issuance, including generation of
+work permits and violation notices. System calculates
+and tracks fees and generates monthly accounting/billing
+statements. Modules handle "tracking" of electricians and
+corporations, licensing, geo-graphical inspector routing and
+information center activities.
+DATABASE CONTENTS
+Building code inspections/violations, electrical licenses/
+permits, miscellaneous billings, public safety inspections.
+APPLICATION NAME: Elevator Inspection Billing system
+YEAR ACTIVATED: 12/82
+APPLICATION DESCRIPTION
+This batch system generates bills for the periodic inspection
+of elevators, which are inspected and billed twice a year.
+DATABASE CONTENTS
+Miscellaneous billings, public safety inspections, building
+code inspections/violations.
+APPLICATION NAME: Loft system
+YEAR ACTIVATED: 12/83
+APPLICATION DESCRIPTION
+Tracking of all lofts in the City of New York. Used to
+determine if loft complied with requlations or if violations
+were issued.
+DATABASE CONTENTS
+Loft board licenses/permits.
+91---------------------------------------------------------------1I AGENCY: Department of Buildinqs paqe 6 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Environmental Control Board
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+This module is an interface between DEP's BARAHIS system and
+BIS. All ECB construction violations are down loaded niqhtly
+from DEP's violation trackinq system and updated on BIS.
+DATABASE CONTENTS
+Manaqement reportinq," structural non-compliance summons.
+APPLICATION NAME: Manaqement Report
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+summarizes operatinq performance by aqqreqate productivity
+and production within aqency operatinq divisions.
+DATABASE CONTENTS
+Miscellaneous statistics, research/planninq, manaqement
+reportinq, public safety inspections, buildinq/structure
+inspections, other complaints, buildinq code inspections/
+violations, buildinq applications/certificates/permits.
+APPLICATION NAME: Illuminated siqn Permit and Fee Billinq System
+YEAR ACTIVATED: 12/84
+APPLICATION DESCRIPTION
+This is a batch proqram that bills and produces illuminated
+siqn permits for all the illuminated siqns in the 5 borouqhs.
+DATABASE CONTENTS
+Miscellaneous billinqs, fee collections/accountinq, public
+safety inspections.
+101---------------------------------------------------------------1I AGENCY: Department of Buildings Page 7 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: On-line Elevator Billing System
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+Routes and monitors inspection dispositions associated with
+the inspection of elevator devices. Provides for the hilling
+of periodic inspections.
+DATABASE CONTENTS
+Building code inspections/violations, public safety
+inspections, miscellaneous hillings.
+APPLICATION NAME: Local Law 5 - Low Rise Buildings
+YEAR ACTIVATED: 4/84
+APPLICATION DESCRIPTION
+Tracking of all huildings helow 100 ft. that had to comply
+with sprinkler requirements set forth in Local Law 5.
+DATABASE CONTENTS
+Inspection reports, pUhlic safety inspections, local law
+compliance inspections, city managed properties.
+APPLICATION NAME: Local Law 5 of 73 - High Rise Buildings
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+Tracking of all huildings over 100 ft. that had to comply
+with sprinkler requirements set forth in Local Law 5.
+DATABASE CONTENTS
+Safety non-compliance summons, public safety inspections, local
+law compliance inspections, inspection reports.
+111---------------------------------------------------------------1I AGENCY: Department of Buildinqs Paqe 8 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Local Law 10/80
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+compliance trackinq of all buildinqs over 6 stories, whose
+owners are required to arranqe for a facade inspection by a
+reqistered architect or professional enqineer every 5 years.
+A report of the inspection must be filed with the Department.
+DATABASE CONTENTS
+Inspection reports, public safety inspections, local law
+compliance inspections, safety non-compliance summons,
+structural non-compliance summons.
+APPLICATION NAME: Local Law 41 of 78
+YEAR ACTIVATED: 3/83
+APPLICATION DESCRIPTION
+Trackinq of all F4C (CABARETS) in the City of New York to
+monitor compliance with requirements set forth in Local Law 41.
+DATABASE CONTENTS
+city manaqed properties, public safety inspections, local law
+compliance inspections, inspection reports.
+APPLICATION NAME: Local Law 16 of 84
+YEAR ACTIVATED: 8/87
+APPLICATION DESCRIPTION
+This module of the BIS system tracks the compliance of
+properties subject to Local Law 16/84 - Fire Safety.
+DATABASE CONTENTS
+Local law compliance inspections, safety non-compliance
+summons.
+121---------------------------------------------------------------1I AGENCY: Department of Buildings Page 9 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: On-Line Handatory Elevator Inspection
+Tracking system
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+All elevators must be inspected by a private company once
+a year and the company files a report with the Department.
+Owners of buildings for which no report is received are
+subject to violation and fines.
+DATABASE CONTENTS
+Building code inspections/violations, public safety
+inspections, public facilities inspections.
+APPLICATION NAME: Plumbing Licensing System
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION
+Tracks and issues licenses to plumbers, and private elevator
+inspectors, sign hangers, and fire suppression.
+DATABASE CONTENTS
+Plumbing licenses.
+APPLICATION NAME: Public Assembly Permit Billing System
+YEAR ACTIVATED: 5/85
+APPLICATION DESCRIPTION
+PAiS are inspected annually for public safety. A permit is
+issued to those that pass the inspection and a permit fee is
+billed.
+DATABASE CONTENTS
+Public facilities inspections, public safety inspections,
+building code inspections/violations, miscellaneous billings.
+13I~---------------------------------------------------- ----------1I AGENCY: Department of Buildinqs Paqe 10 of 10 I
+1---------------------------------------------------------------1
+APPLZCATION NAME: Saturday Variance
+YEAR ACTIVATED: 4/85
+APPLICATION DESCRZPTION
+Trackinq of work permits which allow a Contractor to work
+after the normal workinq hours and on weekends when such
+activities serve to protect the public.
+DATABASE CONTENTS .
+Buildinq constructions, noise complaints/violations.
+14AGENCY
+PHONE:
+DEPARTMENT OF BUSINESS SERVICES
+110 William Street, 3rd Floor
+New York, N.Y.
+10038
+PUBLIC LIAISON
+Miriam Rullan
+Director, Management Information Systems
+MISSION STATEMENT
+212-618-6300
+I FAX:
+. 212-618-8991
+PHONE:
+212-618-8723
+As the business service arm of New York City's economic development efforts, DBS aims
+to expand economic activity, retain and create jobs, attract new businesses, promote
+business and employment opportunities for all groups within the City's population, and
+generally maintain and improve the City's business climate and conditions.
+To accomplish its mission, the agency provides a range of services to individ ual
+businesses, including relocation, bonding, and energy assistance. DBS supports
+commercial revitalization programs in many neighborhoods, provides financial incentives
+to businesses operating in designated economic development zones, sponsors training
+programs, and serves as ombudsman for businesses working with City government.
+The Department provides specially targeted services to minority, women-owned, and
+other small businesses, and to contractors who work in economically depressed areas or
+employ economically disadvantaged workers. DBS enforces Charter, Executive Order,
+and federal grant provisions which ensure that City contractors are equal opportunity
+employers.
+151---------------------------------------------------------------1I AGENCY: Department of Business Services Paqe 1 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Company Trackinq System
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+This is an aqency wide database that tracks contacts that we
+have had with businesses requestinq our services.
+DATABASE CONTENTS
+Company trackinq system, business listinq, manaqement
+reportinq.
+APPLICATION NAME: Procurement Outreach Proqram
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+This database contains information on companies and the
+commodities they offer for sale.
+DATABASE CONTENTS
+Vendor directory, contract trackinq, eliqibility control,
+client trackinq.
+APPLICATION NAME: Bondinq Technical Assistance
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION
+This is a listinq of contractors who requested services from
+this aqency and were assisted.
+DATABASE CONTENTS
+Business listinq, vendor listinq, contractor directory, client
+trackinq, financial statistics.
+161---------------------------------------------------------------1I AGENCY: Department of Business Services Paqe 2 of 4 I
+1---------------------------------------------------------------1APPLICATION NAME: Energy Cost Savings Program
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+This is a tracking system of businesses that are receiving the
+benefits that this program provides.
+DATABASE CONTENTS
+Business listinq, financial/demoqraphic statistics, client
+tracking.
+APPLICATION NAME: Economic Development Zones
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+A listing of businesses in the 4 currently defined EDZs that
+are eligible for services administered by this agency.
+DATABASE CONTENTS
+Business listinq, demoqraphic/financial statistics, client
+trackinq.
+APPLICATION NAME: Local Development corporations
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+This is a listing of the LDCs throuqhout the city and the
+boundaries for the areas that they administer.
+DATABASE CONTENTS
+Business listinq.
+APPLICATION NAME: Contractor Workforce Analysis
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+This is a database of demographic data concerninq the labor
+force of the companies that do business with the city.
+DATABASE CONTENTS
+Demographic statistics, popUlation statistics, equal employment
+opportunity records/statistics, contractor directory.
+171---------------------------------------------------------------1I AGENCY: Department of Business Services Page 3 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Division of Economic , Financial opportunity
+(DEFO) certified companies
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+This is a tracking system to follow up certification processing
+of companies that are eligible for DEFO services, and is used
+to produce a directory of certified firms for distribution to
+procurement officers.
+DATABASE CONTENTS
+Application processing, business listing, vendor directory,
+commodities directory, mailing directories.
+APPLICATION NAME: DEFO Contract Compliance
+YEAR ACTIVATED: 1992
+APPLICATION DESCRIPTION
+This is a database that tracks contracts that are awarded by
+City agencies to DEFO certified firms.
+DATABASE CONTENTS
+Contractor directory, contractor payments, services contracts,
+purchase contracts.
+APPLICATION NAME: Integrated Work Permits/Inspection System
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+This is a database that contains information regarding
+inspections that were performed and violations that were
+issued for certain building sites.
+DATABASE CONTENTS
+Building applications/certificates/permits, buildings/
+structures inspections, building code inspections/violations,
+environmental inspections/violations, public facilities
+inspections, quality control inspections, inspection reports,
+fee collections/accounting, building construction, building
+demolition, building modifications , repairs.
+181----------------------------------------------------- -----~----II AGENCY: Department of Business Services Paqe 4 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Parkinq Violations
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+This is a listinq of parkinq violations that were issued by
+this aqency on sites that are inspected by our staff.
+DATABASE CONTENTS
+Parkinq summons.
+APPLICATION NAME: Criminal, Violations
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+This is a trackinq system for summonses and violations that
+this office issues.
+DATABASE CONTENTS
+Summons processinq, violations trackinq, inspections trackinq,
+crimes.
+APPLICATION NAME: Wharfaqe
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+This is a database that is used for reqisterinq charqes accrued
+by vessels tyinq up at city owned wharfaqe sites.
+DATABASE CONTENTS
+Tenant accountinq.
+APPLICATION NAME: Film site Permits
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+This is a database that tracks permits issued and related fees
+collected for filminq sites in New York City.
+DATABASE CONTENTS
+Film permits, motion pictures, fee collection.
+19AGENCY
+NEW YORK CITY
+CAMPAIGN FINANCE BOARD
+40 Rector Street
+New York, N.Y.
+10006
+PUBLIC LIAISON
+Mara Neville
+Director of Communications
+MISSION STATEMENT
+I PHONE:
+212-306-7100
+I FAX:
+212-306-7143
+I PHONE:
+212-306-7150
+The Campaign Finance Board, an independent, non-partisan City agency, provides public
+matching funds to candidates for municipal office who choose to participate in the pUblic
+financing program; monitors candidates' campaign contributions and expenditures to
+ensure that they conform to the requirements of the law; provides detailed public
+disclosure of participating candidates' campaign finances, and publishes the Voter Guide
+for each regularly scheduled City election. The five offices covered by the program are
+mayor, City Council president, comptroller, borough president, and City Council
+member.
+201---------------------------------------------------------------1I AGENCY: NYC campaiqn Finance Board Paqe 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAME: campaiqn Finance Information System (IICFISII)
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This system stores participatinq candidates' financial
+information as reported to the Campaiqn Finance Board by the
+campaiqn committees. This system is used to calculate public
+fund payments to qualifyinq candidates, monitor compliance
+with the Proqram's contribution and expenditure limits, public
+disclosure and other requirements, and assist the Board in
+conductinq desk and field audits of candidates' campaiqns.
+For public disclosure purposes, CFIS enables the Board to
+produce alphabetized reports of the campaiqn financial data
+candidates report to the Board. For hundreds of participatinq
+candidates for the 1989 and 1991 elections, CFIS was used to
+prepare the followinq pUblic disclosure reports which are
+available at the Board's Offices: 1) by contributor Name,
+2)by contributor Employer Name, 3)by Intermediary Name, and
+4)by Payee/vendor name.
+DATABASE CONTENTS
+1) CONTRIBUTIONS: a) contributor name and address, b) name
+and address of contributor's employer, if supplied,
+c) intermediary name and address, if supplied, d) date
+the contribution was received and the statement it was
+reported on, e) amount of contribution and, f) amount of
+contribution claimed by candidate as "matchable" or for
+purposes of meetinq the threshold.
+2) EXPENDITURES: a) payee name, b) expenditure date and
+c) amount and purpose of the expenditure.
+AVAILABILITY NOTE: Available to the public.
+Please note that from election to election the fields and
+orqanization of the database may vary, as a result of chanqes
+in the campaiqn Finance Act, the campaiqn Finance proqram's
+reportinq requirements, and enhancements to the computer
+system.
+21AGENCY
+DEPARTMENT OF CITY PLANNING
+22 Reade Street
+New York, N.Y.
+10007-1216
+PUBLIC LIAISON
+Geneve Davis
+Records Access Officer
+MISSION STATEMENT
+I PHONE:
+212-720-3667
+FAX:
+I PHONE:
+212-720-3208
+The Department of City Planning is responsible for the City's physical and socioeconomic
+planning, including land use and environmental review, preparation of plans and policies,
+and provision of technical assistance and planning information to government agencies,
+public officials, and community boards. Land use reviews conducted by the Department
+include site selections for all city facilities, acquisition of City office space, economic
+development projects, urban renewal site plans, dispositions for affordable and special
+need housing programs, disposition of City property, landmark designations, and mapping
+actions.
+221---------------------------------------------------------------1I AGENCY: Department of city Planninq Paqe 1 of 9 I
+1---------------------------------------------------------------1
+APPLXCATXON NAME:
+YEAR ACTXVATED:
+GEOSUPPORT XNFORMATXON SYSTEM (GXS) , RELATED
+CARTOGRAPHXC FXLES
+1982
+APPLXCATXON DESCRIPTION
+The Geosupport Xnformation system (GIS) is an inteqrated
+computer system of software and files that supports many
+of the qeoqraphic processinq needs common to New York City
+aqencies ' applications. It is accessed directly by other
+City computer applications on an IBM mainframe.
+The data files in GIS are, specially structured to be accessed
+directly only throuqh the GIS software. However, the data are
+accessible in the form of printed address directories, computer
+qenerated printed maps and a microcomputer-usable format on
+floppy disks that are for sale to the public.
+DATABASE CONTENTS
+The followinq are available for purchase throuqh the Department
+of City Planninq Bookstore, 22 Reade st., New York, NY 10007.
+Tele: [212] 720-3667.
+1. Address Directories by Borouqh:
+A Borouqh Address Directory shows, for each street, the
+address ranqe on each block face, and the correspondinq
+1980 census tract, 1990 census tract, Zip code, Community
+District, School District, Police Precinct, and Health
+Areas. There are also entries for alternative street
+names and some street name spellinq variants.
+2. Printed Computer Generated Maps:
+1990 Census Tract maps are available as a citywide map at,
+a scale of 1 inch =4,000 feet and for each borouqh at 1
+inch =2,000 feet. (Note: These maps depict the census
+qeoqraphyonly, not demoqraphic data).
+1990 Census Tract and Census Block maps are available at
+a scale of 1 inch =600 feet. A set of 44 sectional maps
+shows census tract boundaries and numbers, census block
+numbers, and street names. (Note: These maps depict the
+census qeoqraphy only, not demoqraphic data).
+City-owned and leased property from the 1991 Atlas of City
+Property: These 22 maps show all property that is owned
+and leased by the city of New York at a scale of 1 inch =
+231---------------------------------------------------------------1I AGENCY: Department of City Planninq Paqe 2 of 9 I
+1---------------------------------------------------------------1
+800 feet. Symbols depict properties hy use codes defined
+in the leqend with an abhreviated description of the
+property.
+Tax Block and Lot Maps are available as a booklet for
+each community district (except Staten Island). These
+publications contain detailed maps at a scale of 1 inch =
+250 feet showinq hlock outlines and number, and tax lot
+outlines and numbers.
+3. cartoqraphic Files on'Floppy Disks--Bytes of the Biq
+Apple (TM).
+Tax Block Files in DXF (TM) format for use with
+microcomputers runninq DOS. These have tax hlock
+outlines, tax hlock numbers and street names. They can
+he used with any CAD or mappinq software that can import
+DXF files.
+Tax Block files in Illustrator 88 (TM) format for use on
+Apple MacIntosh (R) computers. 'These files have tax hlock
+outlines, tax hlock numbers and street names. They can
+only he used with Adohe Illustrator 88 (TM) •• software.
+LION single Line.street Base M~p Files in Maplnfo ~
+format for use w1th DOS operat1nq system. These f1les
+have the city'S street qeoqraphy on seven floppy disks.
+The files contain street names, address ranqes and
+qeoqraphic locations expressed in New York East State
+Plane Coordinates. These files can only he used with
+MapInfo (R) •••software.
+• Bytes of the Biq Apple is a trademark of the Department
+of City Planninq •
+•• Illustrator 88 is a trademark of Adohe System, Inc.
+•••MapInfo is a reqistered trademark of the MapInfo
+corporation.
+APPLICATION NAME: LAND USE MANAGEMENT INFORMATION SYSTEM (LUMIS)
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION:
+LUMIS tracks ULURPand non-ULURP applications from receipt hy
+the Department of City Planninq throuqh final review hy the
+City Planninq Commission, City Council and the Mayor.
+241---------------------------------------------------------------1I AGENCY: Department of City Planning Page 3 of 9 I
+1---------------------------------------------------------------1
+DATABASE CONTENTS:
+Application number; applicant; description of what application
+is for; type of application; location; address; community
+district(s); project name; fees collected; zoning map number;
+zoning resolution sections; related ULURP applications and CEQR
+information; and key dates and actions such as date received,
+date certified, and votes by community boards, borough
+presidents, City Planning Commission, and the City council.
+The data resides in a mainframe database system.
+APPLXCATXON NAME: MXSLAND,
+YEAR ACTXVATED: 1979
+APPLXCATXON DESCRXPTXON
+MISLAND is a report generation system used to obtain recent
+and historical land use, housing and population data about
+the City'S neighborhoods. Users may choose from over thirty
+standard report formats. Most of the data originates from
+other city agencies and is processed by City Planning for the
+MISLAND system.
+DATABASE CONTENTS
+Vacant structures; residential structures' vacancy rates; land
+use; property transactions; real estate tax arrearage; city
+owned and leased property inclUding property name and address,
+use, and responsible agency; residential construction,
+conversions and demolitions; land use acreage; building floor
+area; housing unit changes; assessed values; property market
+values; property address and location; property owner's name;
+building and lot dimensions; property sales aggregations; and
+selected 1970, 1980 and 1990 Census information -including
+housing, demographic, social and economic Characteristics.
+METHOD OF ACCESS
+customized report(s) will be produced. Users must request
+the report name and list their geography either by Community
+District(s), census tract(s), or tax block(s) depending upon
+the report requested. Users may request a special report
+title and selection criteria such as year(s) of data, building
+classes, and summary criteria depending upon the requested
+report's available options. The charge per report is $25 for
+the first 100 pages and $10 for each additional 100 pages.
+MISLAND User's Manuals are available by calling (212) 720-3587.
+251---------------------------------------------------------------1I AGENCY: Department of City Planning Page 4 of 9 I
+1---------------------------------------------------------------1
+APPLICATION NAME: HOUSING DATABASE
+YEAR ACTIVATED: 1980
+APPLICATION DESCRIPTION
+The Housing Database is a centralized and standardized source
+of information on city, state, federal and quasi-governmental
+housing and insurance programs. Its a historical file and
+contains data relevant to the housing's geographic location and
+physical characteristics; and information pertaining to the
+specific housing programs that fund or have funded the site.
+The data originates from other city, state and federal agencies
+and are processed by Cit~ Planning for the Housing Database.
+DATABASE CONTENTS
+Address; community district; tax block and lot; census tract
+and block; project name; number of stories; units; housing
+program name; type of program; program status; milestone dates;
+and government and private monies. The data resides in a
+mainframe database system.
+METHOD OF ACCESS
+Upon written request, a Master Housing Database community
+District Report will be produced for each community district
+that has been requested. This report lists all buildings in
+the Housing Database by taxblock and lot, and inclUdes the
+building address, current number of units, and all housing
+programs that have or are currently funding the building and
+their most recent status and status date. Each report will
+contain information on a single community district. The cost
+is $25.00 for the first 100 pages, and $10 for each additional
+100 pages of a report.
+APPLICATION NAME: SELECTED PUBLIC FACILITIES FILE
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+The Selected Public Facilities File is a centralized source
+of data on selected educational, public safety, health,
+recreational and social services facilities; and contains
+attributes related to the type of facility. Most of the data
+originates from other city and state agencies.
+DATABASE CONTENTS
+Facility name; address; community district; type of facility;
+and service level attributes such as enrollment/capacity/
+cirCUlation. The data resides in a mainframe data file.
+26I-----------~----------------------------------------- ----------1I AGENCY: Department of City Planninq Paqe 5 of 9 I
+1---------------------------------------------------------------1
+KETHOD OF ACCESS
+All the information is published annually in the COMMUNITY
+DISTRICT NEEDS publication which is available in the City
+Planninq Bookstore at a cost of $2.00 (plus tax) per borouqh
+volume or $8.00 (plus tax) for the entire city.
+APPL:ICATION NAME: FBI INDEX CRlKES-UNIFORKCRlKE REPORTS (UCR)
+YEAR ACTIVATED: 1969
+APPLICATION DESCRIPTION ,
+FBI Index presents the seven FBI Index crimes on a quarterly
+basis by crime type, police precinct and community district
+and citywide rank order. Data oriqinate with the New York City
+Police Department.
+DATABASE CONTENTS
+Type of crime, police precinct, community district, borouqh
+total and citywide rank order for each crime type. The
+database resides on the CDCSA mainframe.
+APPLICATION NAME: FIRE :INCIDENTS AND MALICIOUS FALSE ALARK
+REPORTS
+YEAR ACT:IVATED: 1971
+APPLICATION DESCRIPTION
+Fire reports present annual data for fire fiqhtinq and
+emerqency treatment activities by the Fire Department. Data
+oriqinate with the New York City Fire Department.
+DATA CONTENTS
+structural fires, non-structural fires and emerqencies, fire
+company area, community district, borouqh and citywide totals.
+The data resides on CDCSA mainframe.
+APPLICATION NAME: IMMIGRATION DATA
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+Data from the annual tape files of the Immiqration and
+Naturalization Service (INS) on new immiqrants, defined as
+persons who have obtained status as permanent residents.
+27I--------------------------------------------------~-- ----------1I AGENCY: Department of City Planning Page 6 of 9 I
+1---------------------------------------------------------------1
+DATABASE CONTENTS
+Data on the characteristics of immigrants include their age,
+sex, occupation and ZIP code of intended residence. The
+database resides on CDCSA mainframe.
+APPLICATION NAME: COMMUNITY DISTRICT PROFILES OF POPULATION AND
+HOUSING CENSUS DATA
+YEAR ACTIVATED: 1992
+APPLICATION DESCRIPTION
+Data are from the full count 1990 Census summary Tape Files for
+the city, the five boroughs and all 59 community districts.
+DATABASE CONTENTS
+A comprehensive list of variables from the full-count census
+questionnaire are included- age, sex, race and Hispanic origin,
+household and family type, and living arrangements among
+others. The database resides on CDCSA mainframe.
+APPLICATION NAME: POPULATION AND HOUSING CENSUS DATA FOR
+SELECTED SERVICE DISTRICTS
+YEAR ACTIVATED: 1992
+APPLICATION DESCRIPTION
+These reports provide selected data from the results of the
+full-count 1990 summary Tape Files for Health Areas, Health
+Center Districts, Councilmanic districts, Police precincts,
+School districts, and other geographic service areas.
+DATABASE CONTENTS
+A comprehensive list of variables from the full-count census
+questionnaire are included--age, sex, race and Hispanic origin,
+household and family type, and living arrangements among
+others. The database resides on CDCSA mainframe.
+28I---------------------------~------------------------- ----------1I AGENCY: Department of City Planninq Paqe 7 of 9 I
+1---------------------------------------------------------------1
+APPLICATION NAME: SOCIOECONOMIC DATA FROM THE 1990 CENSUS
+YEAR ACTIVATED: 1992
+APPLICATION DESCRIPTION
+The data will be prepared as a series of summary Tape File 3
+tabUlations which will provide city, borouqh and census tract
+distributions for the hiqhest demand items in the decennial
+census. Tabulations will also be prepared for Health Areas and
+Health Center Districts. Community District tabUlations, alonq
+with those for other service areas, will be completed durinq
+the second half of 1992.
+DATABASE CONTENTS
+A comprehensive list of variables from the sample-count
+census questionnaire will be included-income, poverty status,
+education, journey to work, labor force status, occupation,
+industry and selected housinq Characteristics. The database
+resides on CDCSA mainframe.
+APPLICATION NAME: DEMOGRAPHIC AND SOCIOECONOMIC DATA FROM THE
+1980 CENSUS
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+These data have been prepared as a series of summary Tape
+File 3 tabulations for the City, borouqhs, community districts
+and other selected service districts (e.q., health areas).
+Data are presented in both profile form for basic items and
+in detailed cross-tabulations. There are special cross­
+classifications by race and Hispanic oriqin.
+DATABASE CONTENTS
+The larqe majority of variables in the 1980 Census have been
+compiled and cross- tabulated. Tabulations have been desiqned
+to address a multitude of specific issues of concern to city
+aqencies. The database resides on CDCSA mainframe.
+291---------------------------------------------------------------1I AGENCY: Department of City Planning Page 8 of 9 I
+1---------------------------------------------------------------1
+APPLICATION NAME: SCHOOL ENROLLMENT PROJECTIONS FXLE
+YEAR ACTIVATED: 1979
+APPLICATION DESCRXPTION
+The Selected School Enrollment projections File contains annual
+five- and ten-year public school enrollment projections for
+kindergarten grade through 9th grade by school district, and by
+borough for high schools. These total projections are related
+to existing and projected school capacity to identify potential
+shortfalls and the need for additional school seats. The
+projections are based on data files obtained from the New York
+City Board of Education and the State Education Department.
+DATABASE CONTENTS
+The data are presented by year, school level, school district,
+borough and city, numerical projections, grade-to-grade
+survival rates. The data resides in a mainframe data file
+maintained by the Social and Education Planning Division.
+The projections are used within the agency.
+METHOD OF ACCESS
+Projection components or summaries are available and are
+published in the text accompanying the City'S biennial
+10-Year capital Strategy.
+APPLICATION NAME: RESIDENTIAL FACXLITIES XN NEW YORK CXTY
+YEAR ACTIVATED: 1990
+APPLICATXON DESCRXPTION
+The Residential Facilities database contains listings and other
+information for the following types of residential facilities:
+(1) residential health care, (2) correctional, (3) small
+residential care and temporary housing, (4) large temporary and
+transitional housing and (5) large residential care. These data
+are based on records and files of other city agencies and state
+agencies as well as those of City Planning.
+DATABASE CONTENTSFacility name, address, tax block and lot, community district,
+type of facility and number of beds. The data resides in a
+mainframe data file maintained by the Social and Education
+Planning Division.
+30I--~-------------------------------------------------- ----------1I AGENCY: Department of City Planning Page 9 of 9 I
+1---------------------------------------------------------------1
+METHOD OF ACCESS
+All the information plus summary statistical tables are
+published annually in a report called, Residential Facilities
+in New York City, which is available at the city Planning
+Bookstore, 22 Reade Street, New York, 10007.
+APPLICATION NAKE: POST CENSAL DEMOGRAPHIC ESTIMATES
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+Post-censal population estimates, birth and death projections
+are developed as needed to provide the necessary inputs for
+planning studies and analyses.
+DATABASE CONTENTS:
+Current estimates and projections of total population by age,
+race and Hispanic origin according to sub-areas of the city
+(borough, community district); anticipated levels of births and
+deaths; and other variables such as housing or labor force are
+estimated or projected. The bulk of the data is stored in a
+mainframe computer system.
+APPLICATION NAKE: FISCAL' GRANTS MANAGEMENT
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+Reimbursement vouchers from federal and state grantors;
+supporting schedules (hourly rates, overhead/OTPS costs
+analyses); project management reporting; bUdget estimates;
+grant applications, etc.
+DATABASE CONTENTS
+Budget/cost data derived from NYC's OMB-adopted expense/revenue
+bUdgets and NYMTC-approved project budgets/work programs for
+various years. The data reside on CDCSA mainframe.
+31AGENCY
+OFFICE OF THE COMPTROLLER
+1 Centre Street, Room 530
+New York, N.Y.
+10007
+PUBLIC LIAISON
+Deena Ghaly
+FOIL Officer
+MISSION STATEMENT
+I PHONE:
+212-669-2508
+FAX:
+I PHONE:
+212-669-3857
+An independently elected official, the Comptroller advises the Mayor, the City Council,
+and the public of the City's financial condition, and makes recommendations on City
+operations, fiscal policies, and financial transactions. The Comptroller also investigates
+all matters relating to the City's finances, registers proposed contracts, verifies budget
+authorization and codes for contracts, determines credit needs, terms and conditions,
+prepares warrants for payment, and issues and sells City obligations. In addition, the
+Comptroller's office conducts performance analyses of City agencies and programs to
+eliminate waste and fraud; helps ensure the safeguarding of assets and the accuracy of
+accounting data, audits all City financial transactions, and settles and adjusts all claims for
+or against the City. The Comptroller also manages the sinking funds and all other
+City-held trust funds, including five pension funds, maintains the City's accounts and
+provides agencies with monthly statements; and publishes the City's annual financial
+statement.
+321---------------------------------------------------------------1I AGENCY: ' Office of the NYC Comptroller Page 1 of 7 I
+1---------------------------------------------------------------1
+User Bureau: Law and Adjustment
+APPLICATION NAME: Claims Information Management Systems
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+Claims against New York City and Health and Hospitals Corp.
+DATABASE CONTENTS
+Claimants names and contact information, claim numbers,
+occurrence date, and site information, claim review dates,
+agency codes, attorney names and contract information,
+statutory and contractual limit dates, settlement/judgment
+amounts, court and file folder location codes, SOH hearing
+dates, litigation dates.
+User Bureau: Financial Analysis
+APPLICATION NAME: Cash Flow
+YEAR ACTIVATED: 1979
+APPLICATION DESCRIPTION
+Information on changes to amounts in city acc9unts.
+DATABASE CONTENTS
+Cash flows by matrix IDs and flow numbers.
+User Bureau: citizens' Action Center
+APPLICATION NAME: Citizen Action complaint System
+YEAR ACTIVATED: n/a
+APPLICATION DESCRIPTION
+Listing of complaints Filed with the Comptroller.
+DATABASE CONTENTS
+Names and addresses of citizens filing complaints with codes
+for actions, sources; dates for received, posting, pending
+and closing.
+331---------------------------------------------------------------1I AGENCY: Office of the NYC Comptroller Page 2 of 7 I
+1---------------------------------------------------------------1
+User Bureau: FISA
+APPLICATION NAME: Bond Refund System
+YEAR ACTIVATED: 1979
+APPLICATION DESCRIPTION
+Tapes of employee payroll information on savings bond
+purchases.
+DATABASE CONTENTS
+SSN's surnames and initials; and installment amounts.
+User Bureau: Accountancy
+APPLICATION NAME: Bank Account Haster Record
+YEAR ACTIVATED: n/a
+APPLICATION DESCRIPTION
+Listing of All City Agency Bank Accounts Coded by
+Investment Type.
+DATABASE CONTENTS
+Names and addresses of agencies and banks; acct. no, status,
+purpose (investment, expense, trust); custodian name, address.
+User Bureau: Asset Hanagement
+APPLICATION NAME: Automated Investment Hanagement System
+YEAR ACTIVATED: n/a
+APPLICATION DESCRIPTION
+Pension Fund Investment Hanagement reporting and control.
+DATABASE CONTENTS
+Investment/Transaction Executive Information.
+statistical reports and actual investments.
+34I-------------------------~--------------------------- -----------1I AGENCY: Office of the NYC Comptroller Page 3 of 7 I
+1---------------------------------------------------------------1
+User Bureau: Asset Management
+APPLICATION NAME: Short Term Investment Reporting system (STIRS)
+YEAR ACTIVATED: n/a
+APPLICATION DESCRIPTION
+EFTA, Financial Investments and Management Reporting.
+DATABASE CONTENTS
+Collateral, coupons, holdings, pricing.
+User Bureau: Various Users (Board of Ed., etc.)
+APPLICATION NAME: Miscellaneous Payroll
+YEAR ACTIVATED: 1978
+APPLICATION DESCRIPTION
+Employee Payroll
+DATABASE CONTENTS
+Payroll for proctors, miscellaneous refunds, etc. Run from
+various tapes, esp. Board of Ed.
+User Bureau: Accountancy
+APPLICATION NAME: Funded Debt
+YEAR ACTIVATED: 1980
+APPLICATION DESCRIPTION
+Revenue and Expenditure statistics.
+DATABASE CONTENTS
+Bond issue information.
+351---------------------------------------------------------------1I AGENCY: Office of the NYC Comptroller Paqe 4 of 7 I
+I--------------------------------------------~-------- ----------1
+User Bureau: Accountancy
+APPLICATION NAME: Lease Expense/Income
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+Leases of City and Private property.
+DATABASE CONTENTS
+Landlords' and premises' addresses, contract periods,
+account f's, block and lot f's.
+User Bureau: FISA/OPA
+APPLICATION NAME: Historic System
+YEAR ACTIVATED: 1973
+APPLICATION DESCRIPTION
+Phase II Payroll for those small aqencies not served by PHS.
+DATABASE CONTENTS
+Payroll data.
+User Bureau: Office of Payroll Administration
+APPLICATION NAME: Garnishee
+YEAR ACTIVATED: 1973
+APPLICATION DESCRIPTION
+Revisions to employee pay amounts.
+DATABASE CONTENTS
+Tapes from CDCSA contain employees' and creditors' names,
+jUdqment numbers and amounts.
+361---------------------------------------------------------------1I AGENCY: Office of the NYC Comptroller Page 5 of 7 I
+1---------------------------------------------------------------1
+User Bureau: Accountancy
+APPLICATION NAME: Fixed Assets
+YEAR ACTIVATED: 1980
+APPLICATION DESCRIPTION
+Inventory Information.
+DATABASE CONTENTS
+community service districts, acquisition dates and methods,
+asset types, agency codes and map references.
+User Bureau: Office of Contract Administration
+APPLICATION NAME: Contract Administration and Tracking System
+YEAR ACTIVATED: n/a
+APPLICATION DESCRIPTION
+Purchase and service contract registration information.
+DATABASE CONTENTS
+Vendor names, contract periods, items and amounts, user
+agencies.
+User Bureau: Office of Labor Relations
+APPLICATION NAME: Deferred Wages Repayment
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+City employee deferred compensation.
+DATABASE CONTENTS
+Names, beneficiaries, past salaries.
+37,-----------------------------------------------~----- ----------1I AGENCY: Office of the NYC Comptroller Page 6 of 7 I
+1---------------------------------------------------------------1
+User Bureau: Claims and Adjudications/Labor Law Div./BLA
+APPLICATION NAME: Prevailing Wage Rates
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+Prevailing wages rates for unionized trades.
+DATABASE CONTENTS
+Names, SSNs and other dat .. and statistics-extracted from
+State U.I. database.
+User Bureau: Administration
+APPLICATION NAME: Directive 6 Reimbursement Account
+YEAR ACTIVATED: n/a
+APPLICATION DESCRIPTION
+Individual employee expense bUdget expenditures.
+DATABASE CONTENTS
+Employee names, SSNs and expense amounts by category.
+User Bureau: Retirement systems
+APPLICATION NAME: Pension Related Applications
+YEAR ACTIVATED: n/a
+APPLICATION DESCRIPTION
+All applications drawing upon pension payroll database.
+DATABASE CONTENTS
+All pension payroll database-related applications inclUding
+W4P, Welfare Benefits, Medicare, W2P and 1099R System,
+Pension On-Line Inquiry.
+381---------------------------------------------------------------1I AGENCY: Office of the NYC Comptroller Page 7 of 7 I
+1---------------------------------------------------------------1
+User Bureau: Law Department
+APPLXCATXON NAME: Workers' Compensation
+YEAR ACTXVATED:
+APPLICATION DESCRIPTION
+Recipient Data.
+DATABASE CONTENTS
+Employee and provider names, addresses, check amounts and
+SSNS/EXNS.
+User Bureau: Accountancy
+APPLICATION NAME: Security Deposit
+YEAR ACTIVATED: 1976
+APPLXCATION DESCRIPTION
+Contractors' payments of deposits
+DATABASE CONTENTS
+Names and addresses of depositors plus amount deposited.
+39AGENCY
+DEPARTMENT OF CONSUMER AFFAIRS
+42 Broadway
+New York, N.Y.
+10004
+PUBLIC LIAISON
+Alfred Curtis
+Director of Computer Service
+MISSION STATEMENT
+I PHONE:
+212-487 -4400
+I FAX:
+212-487-4197
+I PHONE:
+212-487 -4384
+The Department of Consumer Affairs enforces the Consumer Protection Law, City and
+State weights and measures statutes, and licenses 82 types of businesses and activities as
+part of its responsibility to protect consumers. The Department also conducts research
+on and educates the pUblic about consumer issues and resolves consumer complaints.
+401---------------------------------------------------------------1I AGENCY: Department of consUmer Affairs Paqe 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Consumer Affairs Manaqement Information System
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+CANIS is the aqency's informational centerpiece. It is an
+on-line and batch system which captures all major aqency
+activities: Licensinq Functions; Enforcement Functions;
+Complaint Functions; Case processinq Functions; Collection
+Functions; system Maintenance and Control Functions.
+The system allows the aqency to collect data in all the areas.
+The batch portion of the .system allows the user to obtain
+reports on demand that are qeneral MIS reports of aqency
+functions.
+The aqency has the ability throuqh the system to determine its
+position in the areas of revenue, licenses issued, cases
+adjudicated, and collection/account receivables.
+DATABASE CONTENTS
+Licenses/Permits, Inspections/Violations, Weiqhts , Measures,
+Public Non-Compliance Summons, Vendor payments, Revenue
+Collection, Local Law compliance Inspection, Fine Collections/
+Accountinq, Sidewalk Cafe Franchise Holders, Sidewalk Cafe
+Franchise payment, Freedom of Information, Trackinq and
+processinq Public complaints, Business/commercial Listinqs.
+41AGENCY
+OFFICE OF CONTRACTS
+17 John Street, 7th Floor
+New York, N.Y.
+10038
+PUBLIC LIAISON
+Elizabeth Butler
+Assistant Director
+MISSION STATEMENT
+I PHONE:
+212-788-0010
+I FAX:
+212-788-0049
+I PHONE:
+212-788-0010
+Established in 1988 and reconstituted by Executive Order No. 16 of August 31, 1990, this
+Office oversees the contracting and procurement activity of City agencies and coordinates
+various oversight offices which have responsibility for procurement, maintains a
+comprehensive contract management information system (VENDEX), contractor
+performance records, and contracts with industry and non-profit groups that do business
+with the City. The Director is the City's Chief Procurement Officer and also serves as
+Clerk to the Franchise and Concession Review Committee.
+421---------------------------------------------------------------1I AGENCY: Mayor's Office of Contracts Paqe 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAKE: Vendor Information Exchanqe System (VENDEX)
+YEAR ACTIVATED: April 1990
+APPLICATION DESCRIPTION
+VENDEX records information on vendors that do business with
+the City. This information includes backqround, contract,
+performance and caution data. Aqencies review the information
+on VENDEX prior to contract award to assist them in determininq
+whether a potential vendor is responsible.
+DATABASE CONTENTS
+City vendors, capital construction contracts, other contracts,
+purchase contracts, service contracts, bid information, caution
+information.
+43AGENCY
+DEPARTMENT OF CORRECTION
+60 Hudson Street, 6th Floor
+New York, N.Y.
+10013
+PUBLIC LIAISON
+Michael Calabrese
+Manager of Records
+MISSION STATEMENT
+I PHONE:
+212-266-1000
+FAX:
+PHONE:
+718-389-5236, or 6078 and 6122
+The Department of Correction provides custody for four categories of inmates: those in
+detention who are awaiting trial or sentence, those sentenced to one year or less, State
+prisoners with court appearances in New York City, and alleged parole violators being
+held while revocation proceedings are conducted. The Department maintains 19 jails and
+court detention facilities in five boroughs; the Department also contracts with the State
+to operate two upstate facilities. In addition to housing inmates, the Department
+transports them to court, to work locations, and to medical services. The Department
+also provides counseling services, education and training programs, daily recreation, and
+access to law libraries. The Department houses hospitalized inmates on three secure and
+three semi-secure wards managed by the Health and Hospitals Corporation, and operates
+a mental health center and five jail infirmaries on Rikers Island.
+441---------------------------------------------------------------1I AGENCY: Department of correction Page 1 of 2 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Cashier/Commissary system
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+This system maintains accounts in a legal trust for inmates.
+Inmates are legally entitled to weekly access to their accounts
+which can be debited either towards credit to another inmate or
+towards purchase of consumer goods from the commissary. Any
+balance is paid in cash to inmates upon their release from
+incarceration.
+DATABASE CONTENTS I
+Inmate reports/statistics, inmates, inmate bank balances,
+inmate purchases, commissary inventory.
+APPLICATION NAME: Inmate Information system
+YEAR ACTIVATED: 1979
+APPLICATION DESCRIPTION
+To track inmates from admission to discharge as they are moved
+to courts and hospitals, etc. Maintains case, warrant,
+identification, classification and other information.
+DATABASE CONTENTS
+Inmate reports/statistics; identification; admission/transfer/
+discharge: dates, times , locations; cases and warrants;
+classification; inmate histo~; housing.
+APPLICATION NAME: Inmate Infractions
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION
+To maintain a history of infractions of departmental rules by
+inmates for determination of classification during current and
+future incarceration.
+DATABASE CONTENTS
+Inmates, violent infractions, disciplinary action, inmate
+reports/statistics.
+451---------------------------------------------------------------1I AGENCY: Department of Correction Paqe 2 of 2 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Inmate Intake Honitorinq System
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+To ensure that all newly admitted inmates are qiven a medical
+examination and are assiqned a bed within 24 hours, accordinq
+to leqal requirements.
+DATABASE CONTENTS
+Inmate reports/statistics, new admission inmates, admission
+date/time, housinq date/time.
+APPLICATION NAME: Inmate Overload Trackinq system
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION
+To ensure that inmates who are transferred from one facility to
+another facility are housed within 12 hours, accordinq to leqal
+requirements.
+DATABASE CONTENTS
+Inmate reports/statistics, transfer inmates, transfer
+date/time, housinq date/time.
+APPLICATION NAME: State Ready trackinq System
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+To notify New York State Department of Correction of inmates
+due to be transferred to State Correctional facilities.
+Inmates are identified by NYSID number.
+DATABASE CONTENTS
+state ready inmates.
+46AGENCY
+DEPARTMENT OF EMPLOYMENT ~
+220 Church Street, 5th Floor
+New York, N.Y.
+10013
+PUBLIC LIAISON
+Beverly Cheuvront
+220 Church Street, Room 513
+New York, N.Y. 10013
+MISSION STATEMENT
+I PHONE:
+212-433-3001
+I FAX:
+212-964-8983
+I PHONE:
+212-433-6735
+Using Federal, State, and City funds, the Department of Employment seeks to bridge the
+gap between the City's labor force capacity and work force needs. In partnership with
+business, educational institutions, labor, and community-based groups, the Department
+provides vocational development, employment training, job placement, and educational
+programs to the unemployed and underemployed, including dislocated workers, and
+economically disadvantaged adults and young people such as substance abusers,
+ex-offenders, inmates, older workers, refugees, homeless individuals and families, high
+school dropouts, veterans, and people with disabilities. In addition, the Department
+provides services to public assistance recipients as a key part of the City's welfare reform
+efforts.
+471---------------------------------------------------------------1I AGENCY: Department of Employment Page 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Jo~ Training and Partnership Act (JTPA)
+Participants
+YEAR ACTIVATED: 1968
+APPLICATION DESCRIPTION
+This system maintains a dat~ase of DOE participant
+demographics and transactions for City, and State
+Reporting, aUdit, and DOE management.
+DATABASE CONTENTS '
+Jo~ Training and Partnership Act participant demographics,
+participant transactions., Grants/programs/contracts histories,
+individuaL participant employment/training 'history (names and
+ssn's are confidential), jo~ placement statistics.
+APPLICATION NAME: JTPA payroll
+YEAR ACTIVATED: 1968
+APPLICATION DESCRIPTION
+Payroll of JTPA Participants'for supplementary stipends and
+work experience programs. wage, stipend, withholding.
+DATABASE CONTENTS
+wage, stipend, ,withholding of JTPA participants. Individual
+participant support payments history (names and ssn's are
+confidential), grants/programs/contract payment histories.
+48AGENCY
+DEPARTMENT OF ENVIRONMENTAL
+PROTECTION
+59-17 Junction Boulevard
+Corona, N.Y.
+11368
+PUBLIC LIAISON
+Mr. Sanford Evans
+Director, Public Affairs
+MISSION STATEMENT
+I PHONE:
+:18-595-6600
+FAX:
+I PHONE:
+718-595-6600
+The Department of Environmental Protection protects the environmental health, welfare,
+and natural resources of the City and its residents. The Department manages the City's
+water supply and distribution system by collecting drinking water in three upstate
+watersheds and transmitting it to eight million users in the City and four upstate counties
+through three aqueducts, two water tunnels, and 6,250 miles of water mains in the five
+boroughs. After use, the Department collects and transmits the City's waste water
+through approximately 6,400 miles of sewers to 14 treatment plants, where it processes
+the waste and disposes of sludge (the by-product of sewage treatment). In addition, the
+Department carries out Federal Clean Water Act and Clean Air Act regulations, handles
+hazardous material emergencies and toxic site remediation, oversees asbestos monitoring
+and removal, enforces the City's noise code, and manages citywide water and energy
+conservation programs.
+491---------------------------------------------------------------1I AGENCY: Department of Environmental Protection Paqe 1 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Material Safety Data System (MSDS)
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+contains information about New York City located companies
+that have on their premises hazardous materials above city
+and federal threshold amounts.
+DATABASE CONTENTS
+Facilities within NYC that 'use, store, or manufacture hazardous
+materials as per SARA/City reportinq requirements. Detailed
+inventory of chemicals. ,
+APPLICATION NAME: Hazardous Materials Response (SRR)
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+contains information about hazardous materials incidents
+throuqhout New York City responded to by the Department of
+Environmental Protection.
+DATABASE CONTENTS
+Hazardous incidents responded to by DEP/HAZHAT.
+APPLICATION NAME: Sewer Submission Tracking system (SSTS)
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+Submissions by private companies of plans to connect to the
+City sewer system and/or to build private sewer installations.
+DATABASE CONTENTS
+Address directory (consultants/applicants/public and p~lic
+departments/agencies); administrative/manaqement reports;
+correspondences (identifiable by street/location searches);
+fee collections/accountinq (review fees for water Board
+function); inspection reports (records of NYC/DOT inspections,
+private sewer, NYS/DOT, NYCTA, PDC/EDC); submission-site
+connection proposal, private drainage proposal, private sewer
+plans, contract design review: NYC/DOT, NYS/DOT, NYCTA, NYC
+PDC/EDC, etc. - identifiable by project number, streett
+location.
+501---------------------------------------------------------------1I AGENCY: Department of Environmental Protection Page 2 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Bureau of Air Resources Management Information
+system (BARAHIS)
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+System contains data of two distinct types: Violation data in
+relation to BAR, NYPD, and DOB; and Application and permit data
+for BAR. Violation data is processed through the Environmental
+Control Board while Application/permit data is exclusively the
+province of BAR.
+DATABASE CONTENTS
+Building applications/certificates/permits for pollution
+emitting devices, building code inspections/violations for
+pollution emitting devices, management reports, noise
+violations, Buildings Department violations, Environmental
+Control Board cases adjudicated.
+APPLICATION NAME: Automated Violations processing system (AVPS)
+YEAR ACTIVATED: 1980
+APPLICATION DESCRIPTION
+AVPS keeps track of sanitation violations. containing all the
+key dates and locations, the file contains the current status
+and history of all statuses and important transactions.
+DATABASE CONTENTS
+Accounts receivable file, collection agency listing file,
+collection agency history file, collection agency current month
+activity, notice of violations file, audit file of violations
+activity, security sign-on file, list of agencies making
+citations, list of violation codes, holiday table, list of
+valid transactions.
+511---------------------------------------------------------------1I AGENCY: Department of Environmental Protection Page 3 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Central Computer Assisted Drafting and Design
+(CADD)
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+The CADD system contains engineering drawings of water, sewer,
+waste water treatment plants and related facilities used for
+reconstruction, maintenance and extension of the city's
+infrastructure.
+DATABASE CONTENTS
+Building constructions, sewage treatment drawings, tunnel
+alignment drawings, treatment plant design drawings, watermain
+mapping.
+APPLICATION NAME: Automated complaint System (DEPACS)
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION
+Contains information about complaints called in by the public,
+relating to water and sewer problems and other environmental
+complaints, including hazardous material incidents and air
+pollution incidents.
+DATABASE CONTENTS
+Air emissions complaints/violations, water related complaints/
+repairs (mains, street leaks, hydrants), waste water complaints
+(sewer backups, manholes), industrial waste complaints (spills,
+fumes, illegal dumping), noise complaints/violations, hazardous
+materials complaints, water misuse complaints (drought
+related), complaints reported by or source, complaint response
+(inspection/repair), repair history. .
+APPLICATION NAME: Bureau of water and Energy Conservation (BWEC)
+Meters (METERS)
+YEAR ACTIVATED: 1992
+APPLICATION DESCRIPTION
+The meters database contains all billing information, including
+readings of financial information for many years of metered
+account bills.
+DATABASE CONTENTS
+Miscellaneous billings, water meters, management reporting.
+S21---------------------------------------------------------------1I AGENCY: Department of Environmental Protection Paqe 4 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: BWEC Frontaqe (FRONTAGE)
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+MUltiple billinq cycles of financial information for non­
+metered frontaqe accounts (both water and sewer).
+DATABASE CONTENTS
+Manaqement reportinq, miscellaneous billinqs.
+APPLICATION NAME: BWEC Universal Meterinq system (UNS)
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+Vendor information on potential meter accounts, trackinq
+installation of meters throuqh inspection and vendor payments.
+DATABASE CONTENTS
+Miscellaneous billinqs, water meters, manaqement reportinq,
+vendor file.
+APPLICATION NAME: BWEC Jamaica water system (JWS)
+YEAR ACTIVATED: 1980
+APPLICATION DESCRIPTION
+Detailed information on water usaqe transactions for Jamaica
+water metered accounts, enablinq us to produce sewer bills.
+DATABASE CONTENTS
+sewer billinqs, manaqement reportinq.
+53AGENCY
+DEPARTMENT OF FINANCE
+1 Centre Street, Room 500
+New York, N.Y.
+10007
+PUBLIC LIAISON
+Gerald S. Koszer
+Records Access Officer, Office of Legal Affairs
+345 Adams Street, 3rd Floor
+Brooklyn, N. Y. 11201
+MISSION STATEMENT
+I PHONE:
+212-669-4855
+FAX:
+I PHONE:
+718-403-3644
+The Department of Finance administers the tax laws in a fair and efficient manner,
+collects taxes and other City charges, educates the public about its rights and
+responsibilities to achieve the highest level of voluntary compliance, enforces the law to
+the fullest extent possible, provides service in response to requests from the public for
+information and assistance, and protects the confidentiality of tax returns.
+541---------------------------------------------------------------1I AGENCY: Department of Finance Paqe 1 of 10 I
+1---------------------------------------------------------------1
+The followinq details major mainframe systems.
+The followinq status codes apply to the data:
+P = Available to the Public.
+R =Available to the Public with restrictions, e.q., EIN and SSN
+data will be claimed as exempt from disclosure under FOIL.
+S =Tax Secret and not available to the Public.
+It is important to note that the Department of Finance computer
+systems are currently in transition from systems developed over
+the last 15 - 20 years to a centralized fully inteqrated FAIRTAX
+system. Because the new systems will be fully inteqrated they
+will, in qeneral, contain data that is both tax secret and
+available to the public. For example, the current systems
+contain separate names and address for each tax (i.e.
+Unincorporated Business Tax (UBT) and property Tax). currently,
+UBT data is Tax Secret and property tax data is available to the
+Public. In the new FAIRTAX system there will be only one name
+and address "file" or data base havinq both UBT and Property Tax
+Names and Addresses. This database will receive a "R" status
+code. The restriction will relate to public access to UBT names.
+Property names will remain available to the public.
+APPLICATION NAME: FAIRTAX Taxpayer Identification
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+Central repository of identification information for entities
+related to NYC taxes.
+DATABASE CONTENTS
+Names, Addresses, SSN/EIN, Tax Account. (Note: All old
+Department of Finance systems containinq names and addresses
+will be incorporated into this database.)
+STATUS: R
+551---------------------------------------------------------------1I AGENCY: Department of Finance Page 2 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Match Warrant and Vendor
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Matches Department of Finance Warrant file to NYC DGS-MUnicipal
+Supplies file.
+DATABASE CONTENTS
+NYC vendors and related identification information.
+STATUS: R
+APPLICATION NAME: Landlord Information Returns
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+System records all office and non-office building responses and
+changes to owners names and addresses.
+DATABASE CONTENTS
+Names and Addresses of landlords and Commercial Rent
+information related to same.
+STATUS: S
+APPLICATION NAME: FAIRTAX - Returns Processing
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+Central system to process all Returns Based Taxes. Depending
+on tax, system records changes due to Federal and State AUdit,
+processes annual and quarterly taxpayer liabilities, returns,
+payments, etc.
+DATABASE CONTENTS
+Non-Financial and Non-Taxpayer Identification data relating to
+returns based taxpayers.
+STATUS: R
+561---------------------------------------------------------------1I AGENCY: Department of Finance Paqe 3 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Commercial Rent Tax
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Processes the quarterly and annual Commercial Rent Tax.
+DATABASE CONTENTS
+Names, Addresses, non-filer information, receivables,
+correspondence responses, subtenant' returns.
+STATUS: S
+APPLICATION NAME: Real Property Transfer Tax (RPTT)
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Processes the sales of properties requirinq a RPTT.
+DATABASE CONTENTS
+Sales amounts, names, addresses.
+STATUS: S
+APPLICATION NAME: Real Property Income , Expense
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Processes the data filed with Income and Expense forms.
+DATABASE CONTENTS
+Names, addresses, income and expense amounts.
+STATUS: S
+571---------------------------------------------------------------1I AGENCY: Department of Finance page 4 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: FAIRTAX - Charge Processing
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+Central system to process all Charge Based Taxes. Depending on
+tax, system records and calculates tax due.
+DATABASE CONTENTS
+Non-Financial and Non-Taxpayer Identification data relating to
+Charge based taxpayers.
+STATUS: R
+APPLICATION NAME: Commercial Motor Vehicle
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Records tax imposed on the use of Commercial Motor Vehicle and
+motor vehicle for the transportation of passengers in NYC.
+DATABASE CONTENTS
+License plate information, names, addresses, receiVables.
+STATUS: S
+APPLICATION NAME: Annual Vault Charge
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Records and bills annual vault charge imposed for the privilege
+of accompanying, using or maintaining a vault in the streets of
+NYC.
+DATABASE CONTENTS
+Annual charges, vault size, receivables name, addresses.
+STATUS: P
+581---------------------------------------------------------------1I AGENCY: Department of Finance Page S of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: coin Operated Amusement Device (COAD) Charge
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Records and bills charges for all coin operated amusement
+devices in NYC.
+DATABASE CONTENTS
+Names, addresses, device counts, receiVables, charge data.
+STATUS: S
+APPLICATION NAME: open Balance system
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Accounts ReceiVable and billing processing for all bills and
+payments for Real Estate, water and Property related taxes,
+charges and assessments. Both Department of Finance (DOF) and
+non-DOF charges are processed.
+DATABASE CONTENTS
+Financial debits and credits by period.
+STATUS: P
+APPLICATION NAME: Liquor Tax Charge
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Processes liquor license tax.
+DATABASE CONTENTS
+Liquor license billing information, names, addresses.
+STATUS: S
+S91---------------------------------------------------------------1I AGENCY: Department of Finance Page 6 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Rent stabilization charge
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+Processes charges on rent controlled units.
+DATABASE CONTENTS
+Names, addresses, change data.
+STATUS: P
+APPLICATION NAKE: FAIRTAX - Accounts Receivable
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+Central repository of all debits and credits relating to NYC
+taxes.
+DATABASE CONTENTS
+Financial information and account periods. All taxes will be
+incorporated into this database.
+STATUS: R
+APPLICATION NAME: No Good Check Processing
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Processes data on payment checks to NYC that could not be
+cashed due to insufficient funds.
+DATABASE CONTENTS
+Names, address, dollar amounts.
+STATUS: R
+601---------------------------------------------------------------1I AGENCY: Department of Finance Page 7 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: FAIRTAX - Records
+YEAR ACTIVATED: 1992
+APPLICATION DESCRIPTION
+will replace the next two subsystems.
+DATABASE CONTENTS
+See next two subsystems.
+STATUS: P
+APPLICATION NAME: Mortgage Deed System
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Records dates on all legal instruments filed with the City
+Register inclUding deeds, mortgages and liens.
+DATABASE CONTENTS
+Names, address, instrument type, instrument, instrument cross
+reference.
+STATUS: P
+APPLICATION NAME: Uniform Commercial code/Federal Lien
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+Records legal debts.
+DATABASE CONTENTS
+Names and addresses of debtors, secured parties, cross
+reference to filing location of documents.
+STATUS: P
+611---------------------------------------------------------------1I AGENCY: Department of Finance Page 8 of 10 I
+I------------------------~---------------------------- ----------1
+APPLICATION NAME: FAIRTAX - Case Tracking
+YEAR ACTIVATED: 1992
+APPLICATION DESCRIPTION
+Maintains status of all work/taxpayer actions internally
+tracked within Department of Finance.
+DATABASE CONTENTS
+Status, responsible Department of Finance employee, case
+description.
+STATUS: R
+APPLICATION NAME: Audit System
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+system tracks taxpayers who have been audited by Department
+of Finance.
+DATABASE CONTENTS
+Tracking data relating to taxpayer who have not paid amounts
+due after notification of liability.
+STATUS: S
+APPLICATION NAME: Tax Commission Tracking
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Tracks the filing of tax assessment protests and the results of
+hearings on the protests.
+DATABASE CONTENTS
+Names, addresses, protest data, court decision data.
+STATUS: P
+621---------------------------------------------------------------1I AGENCY: Department of Finance Page 9 of 10 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Lease Registration
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Tracks properties for which the City has a lease and reports on
+taxes owed.
+DATABASE CONTENTS
+contract, number, Agency number, names and addresses.
+STATUS: P
+APPLICATION NAME: In-Rem
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Processes the In-Rem actions whereby the City takes possession
+of properties where taxes are in default.
+DATABASE CONTENTS
+Names, addresses, property identification data.
+STATUS: P
+APPLICATION NAME: Installment Agreement
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Processes agreements whereby a taxpayer pays tax obligation in
+installments •.
+DATABASE CONTENTS
+Terms of agreement, names, addresses, property or related tax
+data.
+STATUS: R
+631---------------------------------------------------------------1I AGENCY: Department of Finance Page 10 of 10 I
+1---------------------------------------------------------------1
+APPLXCATION NAME: FAIRTAX - Collections
+YEAR ACTIVATED: 1992
+APPLICATION DESCRXPTION
+Central processing billing a collection of all taxes not paid
+When due.
+DATABASE CONTENTS
+Warrants information, account periods.
+STATUS: R
+APPLICATION NAME: Property System
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Records information on property descriptions, exemptions,
+abatements assessments, remissions.
+DATABASE CONTENTS
+Abatements, exemptions, revisions, property type, assessment
+values, names, addresses, EIN/SSN.
+STATUS: R
+64AGENCY
+FINANCIAL INFORMATION SERVICES
+AGENCY
+111 Eighth Avenue
+New York, N.Y.
+10011
+PUBLIC LIAISON
+Chris Byrne
+Records Access Officer
+MISSION STATEMENT
+I PHONE:
+212-206-3000
+I FAX:
+212-206-3010
+I PHONE:
+212-206-3279
+FISA is responsible for data processing operations which support the activities of those
+City personnel and units responsible for organizing, compiling, coordinating and
+reporting upon the City's central financial records, data, and other related information.
+FISA provides access to such information to those City personnel and units responsible
+for the determination and administration of the estimated and actual City expenditures;
+the receipt, investment and disbursement of City funds; and the issuance and payment of
+principal and interest on City obligations. FISA is also responsible for the implemetation
+and processing of the City's Payroll Management System.
+651---------------------------------------------------------------1I AGENCY: Financial Information Services Agency Page 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Integrated Financial Hanagement system
+YEAR ACTIVATED: 1978
+APPLICATION DESCRIPTION
+IFHS monitors the bUdget and performs all accounting functions
+for all City of New York agencies; it is the backbone of the
+City's financial infrastructure. IFHS processes all of the
+data concerning the City's bUdgets, accounting and vendor
+payments, and furnishes the Comptroller with pertinent
+financial data. simply described, it is a central computerized
+general ledger for all City agencies.
+DATABASE CONTENTS
+Financial accounting, accounts receiVable, accounts payable,
+capital bUdget/expenditures, city vendors, capital construction
+contracts, purchase contracts, service contracts, financial
+reporting, vendor payments, purchase requisitions/orders,
+economic/financial statistics, vendor history.
+APPLICATION NAME: Payroll Hanagement System
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION
+PHS is a computerized system that prepares the payroll for all
+city of New York municipal employees; it provides prompt
+payment of overtime, other premium and retroactive pay and
+allows accurate and up-to-date City personnel record keeping.
+PHS is a central and integrated payroll, timekeeping and
+personnel system for the entire City of New York.
+DATABASE CONTENTS
+Wage reporting, municipal employees salaries, personnel record,
+pension payroll, employee transactions, employee overtime,
+employee attendance, city employee payroll, city employee
+absence/leave/statistics, address directory, employee absences.
+66AGENCY
+FIRE DEPARTMENT
+250 Livingston Street
+Brooklyn, N.Y.
+11201
+PUBLIC LIAISON
+Michael Ciferri, Acting Director
+Bureau of Information and Computer Services
+MISSION STATEMENT
+I PHONE:
+718-403-1403
+FAX:
+I PHONE:
+~12-566-3195
+The Fire Department protects life and property from fire. It fulfills this responsibility
+through three separate but related missions: extinguishment, prevention through
+education, and investigation. The City's 304 square miles are protected from fire by 412
+firefighting and supervisory units in 229 locations in the m~tropolitan area. Fire marshals,
+fire prevention inspectors, and support personnel working from the Department's
+Brooklyn headquarters and numerous field offices throughout the City carry out fire
+investigation, fire safety education, and fire prevention activities. Additionally, the
+Department responds to calls for utility emergencies, building collapses, hazardous
+material incidents, and water main breaks.
+671---------------------------------------------------------------1I AGENCY: Fire Department paqe 1 of 3 I
+1---------------------------------------------------------------1
+APPLZCATZON NAME: BZCS 80/Daily-KTD-YTD Fire statistical System
+(BZS 80)
+YEAR ACTIVATED: 1982
+APPLICATION DESCRZPTION
+DATABASE CONTENTS
+Fire alarms/dispatches.
+APPLZCATZON NAME: computerized Alarm Assiqnment System (CAAS)
+YEAR ACTIVATED: 1980
+APPLICATION DESCRIPTZON
+DATABASE CONTENTS
+Fire alarms/dispatches.
+APPLICATION NAME: critical Information Dispatch system (CIDS)
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+DATABASE CONTENTS
+Fire alarms/dispatches, fire hazards.
+APPLICATION NAME: Kapper Systems (Kapper)
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+DATABASE CONTENTS
+Buildinq modifications/repairs, computer hardware inventory,
+manpower schedules.
+681---------------------------------------------------------------1I AGENCY: Fire Department Page 2 of 3 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Fire Prevention Information Management System
+(FPIMS)
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+DATABASE CONTENTS
+Fire licenses/permits, fire code inspections/violations, local
+law compliance inspections, miscellaneous billings, accounts
+receiVable.
+APPLICATION NAME: Manpower Analysis Reports (HAG)
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+DATABASE CONTENTS
+Manpower schedules, manpower reports/statistics.
+APPLICATION NAME: Daily' Monthly Fire Reports
+YEAR ACTIVATED: 1980
+APPLICATION DESCRIPTION
+DATABASE CONTENTS
+Fire alarms/dispatches.
+APPLICATION NAME: National Fire Information Reporting system
+(NFIRS)
+YEAR ACTIVATED: 1978
+APPLICATION DESCRIPTION
+DATABASE CONTENTS
+Fire alarms/dispatches.
+691---------------------------------------------------------------1I AGENCY: Fire Department Page 3 of 3 I
+1---------------------------------------------------------------1
+APPLZCATZON NAME: Starfire (Starfire)
+YEAR ACTZVATED: 1980
+. APPLZCATZON DESCRZPTZON
+DATABASE CONTENTS
+Fire alarms/dispatches.
+APPLZCATZON NAME: weighted, Response Zndex (WRZ)
+YEAR ACTZVATED: 1968
+APPLZCATZON DESCRZPTZON
+DATABASE CONTENTS
+Fire alarms/dispatches.
+70AGENCY
+DEPARTMENT OF GENERAL SERVICES
+1 Centre Street, Room 1700
+New York, N.Y.
+10007
+PUBLIC LIAISON
+Fred Winters
+Director of Communications
+MISSION STATEMENT
+I PHONE:
+~ 12-669-7000
+I FAX:
+212-669-4664
+I PHONE:
+~12-669-7140
+The Department of General Services purchases supplies and equipment for the City,
+provides architectural, engineering, and construction services to 14 City agencies,
+manages agency telephone services, and plans and manages citywide energy conservation
+efforts. In addition, the Department operates and maintains 41 public buildings,
+including court facilities; acquires, manages, sells, and leases all City owned
+non-residential real property; operates the WNYC radio and television stations, and
+publishes the City Record and Green Book.
+711---------------------------------------------------------------1I AGENCY: Department of General Services Paqe 1 of 3 I
+1---------------------------------------------------------------1
+APPLZCATZON NAME: capital Funds Monitorinq system (CFHS)
+YEAR ACTZVATED: 1985
+APPLZCATION DESCRIPTZON
+This is an online system with batch support function. The
+system monitors all capital projects, contracts and chanqe
+orders on a daily basis. The system will monitor all payments
+to contractors.
+DATABASE CONTENTS·
+Contractor payments; capital construction projects;
+contractors; capital change orders.
+APPLZCATZON NAME: Commodity Line Ztem Purchasinq System (CLZPS)
+YEAR ACTZVATED: 1985
+APPLZCATZON DESCRZPTZON
+The Commodity Line Ztem purchasinq System (CLZPS) is currently
+employed by the Department of General Services' Division of
+Municipal supplies throuqh which approximately $500 million in
+purchases are processed annually. Major functions within the
+procurement process which are addressed by CLZPS are:
+Requisition processinq, Bid Processinq, Bid Tabulation, Bid
+Award Process, Purchase order/Direct Order Process and Vendor
+processinq.
+DATABASE CONTENTS
+All Purchase requisition, bid, contract and purchase order
+related information includinq vendor database.
+APPLZCATZON NAME: Storehouse Znventory
+YEAR ACTZVATED: 1962
+APPLICATZON DESCRZPTZON
+An inventory manaqement system employed by the DGS Central
+Storehouse which is responsible for the warehousinq and
+Distribution of items commonly used throuqhout City aqencies.
+DATABASE CONTENTSZnventory; Aqency usaqe data; inventory pricinq; client aqency
+locations.
+721---------------------------------------------------------------1I AGENCY: Department of General Services Paqe 2 of 3 I
+1---------------------------------------------------------------1APPLICATION NAME: Fleet Administration Maintenance Information
+system (FAMIS)
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This system tracks City owned vehicles, their usaqe and
+maintenance history. The system also keeps track of the
+vehicle parts inventory. This system was identified ~y the
+Mayor's Private Sector survey as not ~einq able to meet the
+chanqinq environment of the Fleet manaqer and the Office of
+Fleet Administration. The Office of Manaqement Information
+Systems is currently manaqinq the project to rewrite FAMIS.
+The new system, Fleet Administration computerized Trackinq
+System (FACTS), will address all aspects of: equipment
+manaqement, materials manaqement and enhanced data retrieval.
+DATABASE CONTENTS
+Vehicle inventory; parts inventory; work orders, maintenance
+history; labor and downtime data.
+APPLICATION NAME: Fuel utilization Monitorinq Equipment system
+(FUMES)
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION
+This system monitors fuel usaqe of NYC vehicles at City owned
+pumpinq sites.
+DATABASE CONTENTS
+Vehicle fuel usaqe, fuel allocation.
+APPLICATION NAME: Tenant Accountinq System
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+This system ~ills tenants of the Division of Real Property for
+rent, usaqe and occupancy fees, and other charqes. Bills are
+sent monthly. Late charqes, if applicable, are calculated
+monthly and dunninq letters are sent. Includes collections.
+Interfaces with IPIS for enforcement data.
+DATABASE CONTENTS
+Tenant descriptive data; premise data; lease financial terms;
+current ~alances; ~illinq and payment history; collection
+data; insurance data; enforcement summary data; mUltiple­
+property data.
+731---------------------------------------------------------------1I AGENCY: Department of General Services Page 3 of 3 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Mortgage Accounting / Sales ReceiVable System
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+This system bills for mortgages created as a result of sales
+conducted by the Division of Real property. Bills are sent
+monthly. Late charges, if applicable, are calculated monthly
+and dunning letters are sent. Also tracks receivables
+resulting from DRP sales, and records defaults.
+DATABASE CONTENTS .
+Mortgagee descriptive data; premise data; mortgage financial
+terms; current mortgage ~alances; billing and payment history;
+current receiVable balances; enforcement data; multiple­
+property data.
+APPLICATION NAME: Integrated Property Information system (IPIS)
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+This system tracks an inventory of City-owned and City Interest
+properties. Tracks various DRP and non-DRP processes affecting
+these properties. Monitors city acquisitions and dispositions.
+Correlates data with DOF files, Geosupport system, DRP Tenant
+Accounting system, DRP Mortgage Accounting / Sales ReceiVable
+system, and HPD Tenant system, and maintains a file of
+discrepancies between these files. Maintains a central name
+index of all people doing business in real estate with the
+City. Inventories all properties leased-in by the City.
+Records agency needs and tracks the resolution of those needs.
+supports the City Land Committee meeting schedule.
+DATABASE CONTENTS
+Property descriptive data; district data; land use regulation
+data; zoning data; inspection data; management data; actions
+required; address data; deed data; Fee Title (ownership) data;
+In Rem process data; condemnation data; negotiated purchase
+data; other acquisition data; auction data; negotiated sale
+data; release data; other disposition data; lease-out data;
+lease-in data; lease enforcement data; restrictions on use;
+pre-closing obligations; restrictive covenants; easements;
+jurisdiction/assignments , surrenders; City Land committee
+requests and meeting history; use data; office data; ulurp
+data; appraisal data; fencing requests and actions; agency
+needs; central name index; Dept. of Finance data.
+74AGENCY
+DEPARTMENT OF HEALTH
+125 Worth Street
+New York, N.Y.
+10013
+PUBLIC LIAISON
+Charles Troob
+Assistant Commissioner
+MISSION STATEMENT
+I PHONE:
+212-566-0453
+FAX:
+I PHONE:
+212-788-5180
+The Department of Health promotes and protects the health and quality of life of City
+residents by enforcing compliance with the City Health Code and administering a broad
+range of public health programs and services including, but not limited to: monitoring
+and controlling tuberculosis, gonorrhea, syphilis, and other communicable diseases;
+providing prevention and treatment programs for pregnant women, infants, children,
+homeless families, and inmates; investigating and eliminating environmental health
+hazards; inspecting restaurants and other facilities; and monitoring blood banks and
+clinical laboratories. The Department's services also include prevention of AIDS and
+HIV -related illnesses, and AIDS counseling, surveillance, testing, and research. The
+Department's Office of Chief Medical Examiner provides forensic medical services.
+751----------------------------,-----------------------------------1I AGENCY: Department of Health Paqe 1 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: PC Network To Link Field sites
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+A system used to capture information on women ~einq served
+in the department's infant mortality prevention activities.
+DATABASE CONTENTS
+Miscellaneous statistics, housinq/population statistics,
+economic/financial statistics, demoqraphic statistics, proqram
+reports, prevent~le diseases, other, manaqement reportinq,
+health records/reports/statistics, health/confidential,
+education proqrams, children/confidential, child care,
+~irth records.
+CONFIDENTIALITYREQUIREMENTS
+Public Health Law Sec. 2805-q(3)
+10 New York Code Rules' Req. Sec. 751.9(m).
+civil Practices Law and Rules Sec. 4504(a).
+APPLICATION NAME: BPC Code Enforcement - On-Line MF
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+A system which accesses ownership data at the Department of
+Finance for Pest Control Billinq purposes.
+DATABASE CONTENTS
+City owned properties, real property ownership, property owners.
+APPLICATION NAME: Daycare Master File
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+Includes information reqardinq day-care centers used in the
+inspection and requlation of day care centers.
+DATABASE CONTENTS
+Child care proqrams, child care, daycare centers.
+761---------------------------------------------------------------1I AGENCY: Department of Health Paqe 2 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Daily Time Sheet - Data Entry Wanq
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+Inspector's Daily Time Sheet Information.
+DATABASE CONTENTS
+Research/planninq, projects/proqrams, buildinq/structure
+inspections.
+APPLICATION NAME: Day Camp Inspection Reports Data Center VS-65
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+Day camp Inspection Report forms, which record the outcome of
+inspections.
+DATABASE CONTENTS
+Other complaints, health licenses/permits, environmental
+inspections/violations, inspection reports, public complaints,
+health inspections.
+APPLICATION NAME: Inspection Report Forms - Data Entry
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+Inspection outcomes fo~ restaurants, public health enqineerinq,
+radiation inspection and other permitted establishments.
+DATABASE CONTENTS
+Health inspections, public complaints, inspection reports,
+health licenses/permits, health code inspections/violations,
+other complaints.
+771---------------------------------------------------------------1I AGENCY: Department of Health Paqe 3 of 11 I
+1---------------------------------------------------------------1APPLICATION NAME: Retroviroloqy' Immunobioloqy Lab System
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+Tracks specimens and test results for HIV and related virus
+testinq.
+DATABASE CONTENTS
+Client directory, public assistance/proqram.
+CONFIDENTIALITY REQUIREMENTS
+Public Health Law Sec. 2805-q.
+10 New York Codes Rules' Req. Sec. 751.9(m), Part 63, 24-1.2.
+civil Practice Law and Rules Sec. 4504(a).
+Public Health Law Article 27-F(a).
+HYCHC Sec. 11.07.
+Public Health Law Sec. 206(1)(j).
+APPLICATION NAME: Lead Poisoninq Control System - On-Line
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+On-line case manaqement system for environmental and medical
+follow-ups on confirmed cases of Lead Poisoninq and results of
+Lead Tests.
+DATABASE CONTENTS
+City employee skills inventory, child care, reqistrations.
+CONFIDENTIALITY REQUIREMENTS
+Public Health Law Sec. 2805-q(3).
+10 New York Codes Rules' Req. Sec. 751.9(m).
+civil Practice Law and Rule Sec. 4504(a).
+HYCHC Sec. 11.07.
+APPLICATION NAME: Case Trackinq system - ME
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+contains trackinq information reqardinq autopsies and related
+medical information.
+DATABASE CONTENTS
+CONFIDENTIALITY REQUIREMENTS
+New York City Charter Sec. 557(q).
+781---------------------------------------------------------------1I AGENCY: Department of Health Paqe 4 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Radioactive Materials License Data Base
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION
+Licensinq Process-Trackinq database of requirements for
+Radiation Licenses.
+DATABASE CONTENTS
+Address directory, other complaints, administrative reports,
+environmental inspections/violations,· health' code inspections/
+violations, health licenses/permits, inspection reports,
+health inspections, publip safety inspections, miscellaneous
+statistics.
+APPLICATION NAME: Tuberculosis Control System - Central
+YEAR ACTIVATED: 1981
+APPLICATION DESCRIPTION
+CICS system that allows user to add, update, display, delete
+and search TB patients and their contacts by name. This is a
+case manaqement system that contains demoqraphic, medical,
+bacterioloqy, susceptibility history.
+DATABASE CONTENTS
+Reqistrations.
+CONFIDENTIALITYREQUIREMENTS
+Public Health Law Sec. 2805-q(3), Sec. 2221.
+10 New York Codes Rules and Reqs. Sec. 751.9(m).
+civil Practice Law and Rules Sec. 4504(a).
+10 NYCRR section 2.17.
+New York City Health Code Sec. 11.07.
+791---------------------------------------------------------------1I AGENCY: Department of Health page 5 of 11 I
+1---------------------------------------------------------------1APPLXCATION NAME: AIDS Reporting system
+YEAR ACTXVATED:
+APPLXCATXON DESCRXPTION:
+Medical and case tracking system related to HIV patients.
+DATABASE CONTENTS
+Senior citizens care, inmates, geographies/maps, goals/mandates
+/objectives, research/planning, death certificates, demographic
+statistics, health records/reports/statistics.
+CONPIDENTXALITYREQUXREMENTS
+Public Health Law Sec. 206(i)(j).
+New York City Health Cod. Sec. 11.07(a)(2).
+10 New York Codes Rules and Regulations Sec. 24-1.2 and
+63.1 et seq.
+Public Health Law Article 27-F(a).
+APPLXCATXON NAME: Births On-Line Record Retrieval
+YEAR ACTIVATED: 1981
+APPLXCATION DESCRXPTION
+An on-line system for accessing confidential Birth Records data
+required for the issuance of Birth Records certification to the
+individual.
+DATABASE CONTENTS
+Birth records.
+CONFXDENTIALXTYREQUIREMENTS
+Administrative Code 17-169.
+Health Code Sec. 201.07.
+APPLXCATION NAKE: Induced Termination
+YEAR ACTIVATED: 1971
+APPLICATION DESCRIPTION
+Confidential Information regarding the circumstances for an
+induced termination of pregnancy.
+DATABASE CONTENTS
+Immigration statistics.
+CONFXDENTXALITYREQUIREMENTS
+Health Code Sec. 203.07(c).
+801---------------------------------------------------------------1I AGENCY: Department of Health Paqe 6 of 11 I
+1----------------------------------------------------- ----~-----I
+APPLICATION NAKE: Lab Improvements STD
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+Results of Lab Inspections, includinq personnel qualifications
+and adherence to standards, for the issuance of Lab permits.
+DATABASE CONTENTS
+Health inspections, dataline reporting system, registrations,
+financial reportinq, child care proqrams, child care.
+APPLICATION NAKE: Handicapped Children
+YEAR ACTIVATED: 1950
+APPLICATION DESCRIPTION
+Invoice information containing medical and payment information
+for service to handicapped children; does not inclUde
+identifying information.
+DATABASE CONTENTS
+Handicapped children.
+APPLICATION NAKE: Hepatitis
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+A confidential record of persons who tested positive for
+hepatitis.
+DATABASE CONTENTS
+Health/confidential.
+CONFIDENTIALITYREQUIREMENTS
+Public Health Law section 2805-g(3)
+10 New York Codes Rules' Reg. Sec. 751.9(m).
+civil Practice Law and Rule 4504(a).
+Health Code Sec. 11.07.
+811---------------------------------------------------------------1I AGENCY: Department of Health Page 7 of 11 I
+1---------------------------------------------------------------1
+APPLZCATZON NAME: Diagnostic Zmmunology Proficiency Testing
+YEAR ACTZVATED: 1987
+APPLZCATZOB DESCRZPTZOB
+Results of proficiency tests submitted to Labs, in the area of
+diagnostic immunology.
+DATABASE CONTENTS
+Quality control inspections.
+APPLZCATZOB BAME: Patient Znformation and Billing System/Data
+Line
+YEAR ACTZVATED: 1987
+APPLZCATZON DESCRZPTZON
+system contains records of patients enrolled in Department of
+Health Clinics, records of individual visits and records of
+provider services. System is also used for medicaid billing,
+and maintains records of payments and accounts receiVable.
+DATABASE CONTENTS
+Accounts receiVable, financial accounting, administrative
+reports, aUdits, fee collections/accounting, health records/
+reports/statistics, management reporting, revenue collection,
+demographic statistics, economic/financial statistics, medicaid
+program.
+CONFZDENTZALZTYREQUZREHENTS
+Public Health Law section 2805-g(3).
+10 Bew York Codes Rules' Reg. Sec. 751.9(m).
+civil Practice Law' Rules Sec. 4504(a).
+42 CFR Sec. 431.300 et seq.
+Public Officers Law Article 6-A.
+Social Services Law Sec. 369(3)
+821---------------------------------------------------------------1I AGENCY: Department of Health Paqe 8 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Permit On-Line System
+YEAR ACTIVATED: 1976
+APPLICATION DESCRIPTION
+An on-line record of permitted establishments and individuals.
+DATABASE CONTENTS
+Daycare centers, vendor licenses/permits, health licenses/
+permits.
+CONFIDENTIALITYREQUIREMENTS
+Public Health Law Section 2805-q(3).
+10 New York Codes Rules' Req. Sec. 751.9(m).
+civil Practice Law and Rules Sec. 4504 (A).
+APPLICATION NAME: vital Records , statistics
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+Updates birth certification file and death on-line lookup file;
+prints birth and death reqisters and statistical reports;
+produces monthly tapes for Federal and State aqencies.
+DATABASE CONTENTS
+Child care, miscellaneous statistics, death certificates,
+birth records, administrative reports.
+CONFIDENTIALITYREQUIREMENTS
+Public Health Law Sec. 2805-q(3)
+10 New York Codes Rules and Req. Sec. 751.9(m).
+Health Code Sees. 201.07, 205.07, and 207.11.
+New York City Administrative Code Sec. 17-169.
+831---------------------------------------------------------------1I AGENCY: Department of Health Paqe 9 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Preventable Disease
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+A PC-based systea for trackinq reported information reqardinq
+approximately 80 communicable diseases.
+DATABASE CONTENTS
+Preventable diseases.
+CONFIDENTIALITY REQUIREMENTS
+Public Health Law Sec. 28,05-q(3).
+10 New York Codes Rules' Req. Sec. 751.9(m).
+civil Practice Law and Rules Sec. 4504(a).
+Health Code Sec. 11.07.
+APPLICATION NAME: sexually Transmitted Disease On-Line System
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+A syphilis reqistry, keepinq patient histories, includinq
+tests, diaqnoses, and treatments, for on-line use.
+DATABASE CONTENTS
+contaqious diseases.
+CONFIDENTIALITY REQUIREMENTS
+Public Health Law Sec. 2805-q(3).
+10 New York Codes Rules' Req. Sec. 751.9(m).
+Civil Practice Law and Rule Sec. 4504(a).
+10 NYCRR Sec. 2.32.
+Health Code Sec. 11.07(a)(2).
+Public Health Law Sec. 2306.
+841---------------------------------------------------------------1I AGENCY: Department of Health Page 10 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Venereal Disease
+YEAR ACTIVATED: 1950
+APPLICATION DESCRIPTION
+A file of cases of sexually transmitted diseases, for batch
+processing.
+DATABASE CONTENTS
+Preventable diseases.
+CONFIDENTIALITY REQUIREMENTS
+Public Health Law Sec. 28,05-g(3).
+10 New York Codes Rules and Regs. Sec. 751.9(m).
+civil Practice Law and Rules Sec. 4504(a).
+10 NYCRR Sec. 2.32.
+Health Code Sec. 11.07(a) (2).
+Public Health Law Sec. 2306.
+APPLICATION NAME: Prevention of Perinatal Aids Transmission
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+Tracks medical treatment of infants born with HIV virus.
+DATABASE CONTENTS
+Miscellaneous statistics, demographic statistics, research/
+planning, grants/specific funded programs.
+CONFIDENTIALITY REQUIREMENTS
+Public Health Law Sec. 2805-g(3).
+10 New York Codes Rules and Regs. Sec. 751.9(m).
+civil Practice Law and Rules Sec. 4504(a).
+Public Health Code Sec. 206(1) (j).
+10 NYCRR Sec. 24-1.2.
+Public Health Law Article Sec. 27-F (a).
+10 NYCRR Part 63.
+851---------------------------------------------------------------1I AGENCY: Department of Health Paqe 11 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: vital statistics Special Request On-Line MF
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+Tapes created for Federal, State, other aqencies and
+institutions. Reports are usually listinqs of selected data.
+DATABASE CONTENTS
+Health records/reports/statistics, death certificates,
+research/planninq.
+CONFIDENTIALITY REQUIREMENTS
+Names Confidential.
+Public Health Law Sec. 2805-G(3).
+10 NYCRR Sec. 751.9(m).
+New York Administrative Code Sec. 17-169.
+Health Code Sec. 201.07, 205.07, and 207.11.
+86AGENCY
+DEPARTMENT OF HOUSING PRESERVATION
+AND DEVELOPMENT
+100 Gold Street
+New York, N.Y.
+10038
+PUBLIC LIAISON
+Ira Bourstein
+Records Access Officer
+Office of Legal Affairs / General Counsel
+MISSION STATEMENT
+I PHONE:
+212-566-4663
+FAX:
+I PHONE:
+212-978-6273
+The Department of Housing Preservation and Development (HPD) preserves, upgrades,
+and expands the City's affordable housing stock. The Department rehabilitates private
+and City-owned occupied buildings and develops new housing through gut rehabilitation
+of vacant buildings and 'new construction. The Department also manages buildings taken
+through tax foreclosure, provides housing for homeless families and individuals, and
+monitors and enforces code compliance.
+871---------------------------------------------------------------1I AGENCY: Department of Housinq Preservation and Development I
+1---------------------------------------------------------------1Paqe 1 of 1
+The NYC Department of Housinq Preservation and Development is
+in the process of reviewinq database applications in order to
+prepare entries for inclusion in future editions the Public
+Data Directory.
+Pendinq publication of this information in future editions, the
+public liaison listed on the aqency cover sheet is available to
+answer questions reqardinq access to computerized data.
+88AGENCY
+HUMAN RESOURCES ADMINISTRATION
+250 Church Street
+New York, N.Y.
+10013
+PUBLIC LIAISON
+'Ro ger McMillan
+Executive Deputy Administrator
+Managemen t Information Systems
+MISSION STATEMENT
+I PHONE:
+~12-274-5400
+FAX:
+I PHONE:
+212-206-3667
+The Human Resources Administration (HRA) provides income support, employment
+and social service,s to individuals and families in need. Specific services include public
+assistance, Food Stamps, Medicaid, job placement/training, day care,
+preventive/protective services for children, foster care, adoption, home care, protective
+services for adults, shelter services for homeless individuals and families, and residential
+services to the HIV -ill and persons with AIDS.
+HRA seeks to ensure that services meet human needs effectively, are accessible and are
+delivered efficiently and humanely. Whenever possible, HRA focuses on increasing an
+individual's or a family's ability to live independently in the community.
+891---------------------------------------------------------------1I AGENCY: Human Resources Administration Paqe 1 of 1 I
+1---------------------------------------------------------------1
+The NYC Human Resources Administration is in the process of
+reviewinq database applications in order to prepare entries
+for inclusion in future editions the Public Data Directory.
+Pendinq publication of this information in future editions, the
+public liaison listed on the aqency cover sheet is available to
+answer questions reqardinq access to computerized data.
+90AGENCY
+DEPARTMENT OF JUVENILE JUSTICE
+365 Broadway
+New York, N.Y.
+10013
+PUBLIC LIAISON
+Kay C. Murray, Esq.
+Counsel and Records Access Officer
+MISSION STATEMENT
+I PHONE:
+~12-925-7779
+I FAX:
+~12-219-9358
+PHONE:
+212-925-7779, ext. 211
+The Department of Juvenile Justice (DJJ) is mandated to provide detention, aftercare
+and prevention services. DJJ provides detention for alleged juvenile delinquents and
+alleged juvenile offenders, aged 7 through 15, pending adjudication of their cases or
+transfer to state institutions after disposition or sentencing. Secure detention is provided
+at Spofford Juvenile Center. Non-secure detention (NSD) is provided through a network
+of 10 group homes. DJJ also operates a school for NSD residents. Aftercare helps
+children released from detention to return to school and provides support services to
+their families. The Family Ties program provides an alternative to placement for
+adjudicated juvenile delinquents by teaching families new ways of dealing with problems.
+DJJ has also initiated new programs under the Mayor's Safe Streets, Safe City Plan: the
+Court Appearance Program provides mentor and escort services, to ensure that children
+who are released home from detention will return to court; the Detention Alternative
+Program works with children in detention who, with close supervision and support, can
+return to their homes and communities to await disposition of their cases; and the
+Reading Achievement Program provides on-site tutoring to help children stay in school.
+911---------------------------------------------------------------1I AGENCY: Department of Juvenile Justice Page 1 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: custody Control system
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION and DATABASE CONTENTS
+Inter-agency ~illings, child care, inmates, juvenile delinquent
+reports/statistics, juvenile delinquent, transportation, other.
+CONFIDENTIALITYREQUIREMENTS
+New York State Social services Law, section 372 (4) (A).
+APPLICATION NAME: Food services Inventory
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This application keeps track of past, current inventory levels,
+amounts received, and amounts issued for all specified food
+items utilized at the Spofford Juvenile Center.
+DATABASE CONTENTS
+Inventory.
+APPLICATION NAME: Non-Secure Detention Inventory Tracking
+System
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This application keeps track of past, current inventory levels,
+amounts received, and amounts issued for all specified items,
+for example, furniture, food, office supplies, personal hygiene
+supplies.
+DATABASE CONTENTS
+Inventory.
+921---------------------------------------------------------------1I AGENCY: Department of Juvenile Justice Page 2 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Plant Management Inventory
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This application keeps track of past, current inventory levels,
+amounts received, and amounts issued for all specified items
+relating to plant management, such as, carpentry and electrical
+items.
+DATABASE CONTENTS
+Inventory.
+APPLICATION NAME: Property Management/Fiscal Business Inventory
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This application keeps track of past, current inventory levels,
+amounts received, and amounts
+issued for all specified items relating to fiscal and business
+inventory.
+DATABASE CONTENTS
+Inventory.
+APPLICATION NAME: Sneaker Inventory
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This application keeps track of all sneakers issued to
+residents at the spofford Juvenile Center.
+DATABASE CONTENTS
+Inventory.
+931---------------------------------------------------------------1I AGENCY: Department of Juvenile Justice Page 3 of 4 I
+1---------------------------------------------------------------1
+APPLXCATXON NAME: Visitor system
+YEAR ACTXVATED: 1983
+APPLXCATXON DESCRXPTXON and DATABASE CONTENTS
+Visitors.
+COHFXDENTXALXTY REQUXREMENTS
+New York state Social Services Law, section 372 (4).
+APPLXCATXON NAME: DJJ Fund Xnc.
+YEAR ACTXVATED: 1987
+APPLXCATXON DESCRXPTXON
+This application keeps track of the type, date acquired, and
+amount of the following hardware, modems, monitors, printers,
+CPUs, keyboards, telecommunication lines, and the associated
+vendors, and maintenance contracts, for all users, work units,
+and sites at the Department of Juvenile Justice.
+DATABASE CONTENTS
+Balance sheet by grantor.
+APPLXCATXON NAME: Property Management Expenditures Tracking
+System
+YEAR ACTXVATED: 1988
+APPLXCATXON DESCRXPTXON
+This application keeps track of purchase order, storehouse, and
+xmprest Fund expenditures for the property Management department
+of Spofford Juvenile Center.
+DATABASE CONTENTS
+Balance sheet, management reporting/control.
+941---------------------------------------------------------------1I AGENCY: Department of Juvenile Justice Paqe 4 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Volunteers Database
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION
+This application provides an address directory for all
+volunteers to the Department of Juvenile Justice, and keeps
+track of the number of hours, type of task, and the site of
+each volunteer's participation.
+DATDASE CO~E~S
+Volunteers, address directory, street name and address/Geo­
+support.
+95AGENCY
+OFFICE OF LABOR RELATIONS
+40 Rector Street
+New York, N.Y.
+10006
+PUBLIC LIAISON
+Emlen Goodman, Director of Systems
+Jean N. Brewer, Records Access Officer
+MISSION STATEMENT
+I PHONE:
+212-306-7200
+I FAX:
+212-306-7202
+PHONE:
+212-306-7345 and 212-306-7270
+The Office represents the Mayor in the conduct of all labor relations between the City of
+New York and labor organizations representing employees of the City. The
+Commissioner serves on behalf of the Mayor as the City's liaison with both labor and
+management in the private sector. Additionally, the Commissioner administers the
+Health Insurance Program, the Management Benefits Fund, the Central Employee
+Assistance Program, the Deferred Compensation Plan and the Medicare Reimbursement
+Program.
+961---------------------------------------------------------------1I AGENCY: Office of Labor Relations Page 1 of 1 I
+1---------------------------------------------------------------1
+The Mayor's Office of Labor Relations (OLR) administers the
+City's health benefits program through the PACES on-line system.
+This program provides health benefits for approximately one
+million active and retired city employees, and their family
+members-- making NYC the largest purchaser of employee health
+services in the Greater New York area. These benefits are derived
+through collective bargaining agreements between OLR and the
+municipal unions. Employees may choose to receive these benefits
+from any of 17 health insurance carriers. The city pays the full
+cost of the basic health plan to its enrollees for most health
+benefit plans. Additional coverage can be obtained through
+contributions by the enrollee.
+The Employee Benefits ,Program is also responsible for the
+processing and distribution of the Medicare Reimbursement Program
+Which refunds to eligible retirees a percentage of the cost of
+Medicare Insurance. This figure is a set rate per month as voted
+on by the City Council and last year distributed over $40 million
+to 75,000 eligible retirees.
+APPLICATION NAME: PREMIUM ACCOUNTING/CENTRALENROLLMENT SYSTEM
+RETIREE (PACES)
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+Processes health and Medicare reimbursement information for
+retired City employees.
+DATABASE CONTENTS
+City retiree health information, Medicare reimbursement check
+information, rate tables for health insurance.
+APPLICATION NAME: PREMIUM ACCOUNTING/CONTROLENROLLMENT
+SYSTEM/ACTIVE (PACES II)
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION
+Processes health information for City employees.
+DATABASE CONTENTS
+City active health information rate tables for health
+insurance.
+97AGENCY
+LANDMARKS PRESERVATION COMMISSION
+225 Broadway
+New Y~rk, N.Y.
+10007
+PUBLIC LIAISON
+Fred DeLeon
+Records Access Officer
+MISSION STATEMENT
+I PHONE:
+212-553-1100
+I FAX:
+212-513-1618
+I PHONE:
+212-553-1119
+The Landmarks Preservation Commission was established in 1965 to protect the City's
+architectural and historic resources. The Commission identifies, designates, and regulates
+alterations to landmarks, buildings in historic districts, scenic landmarks, and designated
+landmark interiors considered significant for their architectural, historic, cultural, or
+aesthetic qualities. The Commission surveys potential landmarks and historic districts,
+evaluates and reviews proposals for landmark designation, and regulates and monitors
+alterations to designated buildings and scenic landmarks. In addition, the Commission
+seeks alternate uses or purchasers for threatened landmarks, salvages and recycles
+architectural elements, and provides technical assistance and distributes funds through its
+Facade Improvement Program to help eligible property owners preserve their designated
+buildings.
+981---------------------------------------------------------------1I AGENCY: Landmarks Preservation Commission Paqe 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Permit Application Trackinq System (PATS)
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+This system tracks all work permit applications received and
+issued since 1987.
+DATABASE CONTENTS
+Landmark requlatory actions, work applications filed for
+desiqnated buildinqs.
+99AGENCY
+LAW DEPARTMENT
+100 Church Street
+New York, New York
+10007
+PUBLIC LIAISON
+La urence A. Levy
+Records Access Officer
+MISSION STATEMENT
+I PHONE:
+212-788-0303
+I FAX:
+212-788-0367
+I PHONE:
+212-788-0400
+The Law Department serves as the attorney and counsel for the City and its agencies, and
+serves as representative in virtually all law suits brought for or against the City. In
+addition to handling litigation on the City's behalf, the Department also prepares and
+reviews contracts, legislation, and fiscal and bond documents, and renders legal opinions.
+1001---------------------------------------------------------------1I AGENCY: Law Department Page 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAKE: citylaw
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+Legal research and retrieval system.
+DATABASE CONTENTS
+contains the full text of Hayoral Directives and Executive
+Orders, formal opinions of the corporation Counsel, the
+opinions of the New York City Conflicts of Interest Board, and
+other Law Department material having precedential value. The
+contents of Citylaw are generally available in hard copy form
+through law libraries.
+APPLICATION NAKE: city of New York, Workers' compensation System
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+Workers' compensation claims data, including claimant data,
+injury information, medical findings, payment transactions,
+worker's compensation providers, and various coding tables for
+locations, agencies, injuries, occupations, and payment rates.
+101AGENCY
+NYC LOFT BOARD
+1 Centre Street, #2358
+New York, N.Y.
+10007
+PUBLIC LIAISON
+Public Information Unit
+MISSION STATEMENT
+I PHONE:
+212-669-4373
+I FAX:
+212-669-4408
+I PHONE:
+212-669-4373
+The New York City Loft Board was established pursuant to state law and Executive
+Order No. 66 of September 30, 1982 to resolve issues regarding the legalization and
+regulation of loft buildings converted to residential use. The staff of the Loft Board also
+enforces the zoning resolution and administrative code to prevent illegal conversion of
+lofts throughout the City.
+1021---------------------------------------------------------------1I AGENCY: NYC Loft Board Page 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Loft Data
+YEAR ACTIVATED: 1983/84
+APPLICATION DESCRIPTION
+This module tracks the status of over 850 loft buildings moving
+through the stages of code compliance; the data base also
+includes violations, summonses and applications brought before
+the Board.
+DATABASE CONTENTS
+Building applications/certificates/permits; litigation cases;
+building code inspections/violations; fee collections/
+accounting; inspection reports; building/structure inspections;
+local law, fire code, housing maintenance standards compliance
+inspections; loft board licenses/permits; other purchases; real
+property ownership; registrations; rent/lease payments; public
+non-compliance summons.
+103AGENCY
+OFFICE OF MANAGEMENT & BUDGET
+75 Park Place
+New York, N.Y.
+10007
+PUBLIC LIAISON
+Karen Szurek
+Director of Public Affairs
+MISSION STATEMENT
+I PHONE:
+212-788-5800
+I FAX:
+212-788-6300
+I PHONE:
+212-788-5905
+Established by Section 225(b) of the New York City Charter, the Office is responsible for
+developing the Mayor's Preliminary and Executive Budgets, and for advising the Mayor
+on all policy issues affecting the City's fiscal stability and the effectiveness of City services.
+The Director serves as a member, ex-officio, of the New York City Municipal Water
+Finance Authority.
+1041---------------------------------------------------------------1I AGENCY: Office of Manaqement and BUdqet Paqe 1 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: ASSET INVENTORY MANAGEMENT SYSTEMS
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION and DATABASE CONTENTS
+Backqround:
+The Charter requires that the head of each city aqency submit
+to the mayor each year an up-to-date inventory, assessment,
+and schedule of maintenance activities and necessary repairs
+for that aqency's portion of the city's capital plant.
+Process: j
+The mayor must then transmit to the city council an estimate of
+the amounts needed, byaqency, for the required maintenance
+and repair activities. The condition assessments, maintenance
+schedules and estimates must he prepared and certified by
+reqistered enqineers and,architects. Finally, the mayor shall
+include in the bUdqet messaqe an itemized statement detailinq
+any differences between the amounts indicated as required and
+the amounts appropriated for capital plant maintenance as well
+as the amounts actually expended.
+summary:
+The City's physical plant is defined by the Charter to include
+all assets or systems with a replacement value of at least $10
+million and useful life of at least ten years. Even with these
+restrictions, the individual assets identified and appraised in
+the first phase of the project number approximately 2500 and
+include asset types such as parks, schools, office buildinqs,
+police precincts, prominent hridqes, bulkheads, and ferryboats.
+The city's approximately 5700 miles of streets are also
+included in this project. Assets leased to the Transit
+Authority, the NYC water Finance Authority and to other public
+benefit corporations are excluded from the Charter reportinq
+requirements. The City has chosen to include assets of the
+Health and Hospital corporation. This application also
+includes the inventory assessments, maintenance and repair
+activities required by the Charter.
+1051---------------------------------------------------------------1I AGENCY: Office of Kanaqement and BUdqet Paqe 2 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAKE: CAPIS
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION and DATABASE CONTENTS
+The capital Information systems, CAPIS, is software for
+developinq and maintaininq the City's capital commitment Plan,
+the Request, Executive and Adopted BUdqets and the three-year
+Capital Proqram. Bi-annually CAPIS produces the City's Ten
+Year capital Plan which sets forth the city's proqrammatic
+qoals for capital improvement.
+CAPIS is a CICS (customer' Information and Control System)
+online system. Application proqrams are written in command
+level COBOL, and many call modules or routines are assembler
+macros. within CAPIS there are two subsystems, the Desiqn,
+Award and Construction system (DACS,) and the Ten Year Plan.
+CAPIS includes approximately 100 on-line screens and associated
+proqrams, which provide inquiry and update functions to users.
+In addition to the online system there are 25 to 30 batch
+proqrams which support CAPIS and DACS.
+In CAPIS the basic entity is the CAPIS project which contain
+location, scope, and schedule information alonq with forecasts
+of capital commitments from all fundinq sources. within
+each CAPIS project commitment forecast are details called
+occurrences which represent either a complete capital contract
+with amount and commitment date or a part of a capital
+contract. Each detail consists of codes which describe the
+type of work, the fundinq (budqet line), a date, and the funded
+amount (City Exempt, Non-exempt, Federal, State or Private.
+Each CAPIS project has an approval status or Financial status
+Code (FSC). A project has approved status if OMB chanqes the
+four character FSC to an "approved" FSC startinq with "EX" or
+"PL". When a project is approved CAPIS qenerates an approved
+detail equal to the aqency's forecast, OMB may elect to chanqe
+the timinq or the amount of the approved detail, thus a CAPIS
+project may have a variance between the aqency's estimates and
+OMB's approved estimates. CAPIS contains approximately 10,800
+approved projects of which 4,500 are active in the current four
+year proqram. These active projects contain about 9,000
+details or occurrences.
+106YEAR ACTXVATED:
+1---------------------------------------------------------------1I AGENCY: Office of Kanaqement and BUdqet Paqe 3 of 4 I
+1---------------------------------------------------------------1
+APPLXCATXON NAKE: COKMUNXTY BOARD REPORTS
+1981 Reqister of Community Board Requests
+1986 Various Geoqraphic Capital Reports
+APPLXCATXON DESCRXPTXON
+OMB's Office of community Board Relations publishes various
+bUdqet documents for release as part of the preliminary,
+Executive and Adopted BUdqets. The capital bUdqet documents
+fulfill the requirements of Charter section 214a3.
+DATABASE CONTENTS I
+1. The Geoqraphic Report for the Capital BUdqet contains cost
+estimates of site specific capital projects for the next
+fiscal year and the three succeedinq years sorted by
+community district. Appropriations-to-date and
+expenditures-to-date are included for each project. Also
+listed are borouqh and citywide projects.
+2. The Geoqraphic capital commitment Plan is orqanized by
+community district and shows the capital appropriations and
+commitments for the current fiscal year and the next thee
+years for all active capital bUdqet projects, and project
+implementation schedules which qive the best estimate of
+the completion time for activities such as scope, desiqn
+and construction.
+3. The Geoqraphic capital Detail Data Report shows each CAPXS
+project (capital project) within a bUdqet line. Sorted by
+community district, available information includes bUdqet
+costs, an implementation schedule, project location and a
+scope summary. For projects supported by community boards,
+this report crosswalks the bUdqet lines and CAPXS detail
+with the community board trackinq code.
+4. The Reqister of Community Board BUdqet Requests publishes
+the responses to the capital and expense bUdqet requests
+submitted by the community boards. Aqency, OMB and Adopted
+BUdqet fundinq recommendations are presented for the
+successive staqes of the bUdqet process (Charter section B
+and 212).
+1071---------------------------------------------------------------1I AGENCY: Office of Management and BUdget Page 4 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: QUARTERLY ALLOCATION SYSTEM
+YEAR ACTIVATED: 1977
+APPLICATION DESCRIPTION and DATABASE CONTENTS
+In accordance with section 106(b) of the City Charter, the
+Mayor shall establish Quarterly spending Allotments and
+aggregate position and salary limits for each unit of
+appropriation within an agency. TheQuarterlyAllocation
+System (QAS) is used to'plan and monitor monthly spending
+by agency. Expenditure plans are maintained by Personal
+Service (e.g. salaries, overtime, etc.) and Other Than
+Personal Services (e.g. equipment, rent, etc.). Agencies are
+required to remain within their spending plan hy unit of
+appropriation and funding source. The QAS supports various
+fiscal monitoring exercises which include cashflow,
+variance reporting and surplus/needs exercises.
+Expenditure forecasts for the City's cashflow are prepared
+each month. Variance reports on dollars and employee headcount
+are issued monthly to the agencies with a comparison between
+their actuals and plan. Any overspending/underspending that
+has occurred must be explained by the agency. This system
+provides early warnings on overspending and enables an agency
+to take corrective action. The surplus/needs analysis projects
+variances for the remainder of the current fiscal year for each
+agency, and surpluses and needs are halanced out across
+agencies to ensure that on an aggregate basis the City is
+within bUdget. The QAS data supports development of the Four
+Year Financial Plan.
+108AGENCY
+DEPARTMENT OF MENTAL HEALTH,
+MENTAL RETARDATION AND ALCOHOLISM
+SERVICES
+93 Worth Street
+New York, N.Y.
+10013
+PUBLIC LIAISON
+Donna Ball
+Assistant Commissioner
+MISSION STATEMENT
+I PHONE:
+212-334-2081
+I FAX:
+212-941-0794
+I PHONE:
+212-334-1170
+The Department of Mental Health, Mental Retardation and Alcoholism Services is
+mandated by the City Charter and State Mental Hygiene Law to plan, contract for,
+monitor, and evaluate local mental health, mental retardation, and alcoholism services in
+New York City. The Department administers approximately 820 programs through 334
+contracts with more than 150 voluntary agencies, 14 Health and Hospitals Corporation
+facilities, the City's correctional facilities, Family Criminal Courts, and the Human
+Resources Administration. The services directly funded and monitored by the
+Department provide care to more than 425,000 persons each year, including emotionally
+disturbed children and adolescents, mentally retarded and developmentally disabled
+children and adults, mentally ill adults, alcoholics, persons referred from the courts and
+prisons for psychiatric services, and mentally disabled men and women.
+1091---------------------------------------------------------------1I AGENCY: Dept. of M. Health, M. Retard. , Alco. Sere
+1---------------------------------------------------------------1Page 1 of 2
+APPLICATION NAKE:
+YEAR ACTIVATED:
+Expenditure ~y Contract
+Fiscal 1988
+APPLICATION DESCRIPTION
+Tracks monthly expenditures of contract agencies.
+DATABASE CONTENTS
+Financial accounting, Expense ~udget/expenditures.
+APPLICATION NAKE:
+YEAR ACTIVATED:
+Mental ,Hygiene Service Directory
+Fiscal 1989
+APPLICATION DESCRIPTION
+Profiles service providers ~y listing type of service rendered,
+service location, and client demographics.
+DATABASE CONTENTS
+Address directory, demographic statistics.
+APPLICATION NAKE:
+YEAR ACTIVATED:
+Levels of Service ~y Contract
+Fiscal 1987
+APPLICATION DESCRIPTION
+Tracks monthly units of service rendered ~y contract agencies.
+DATABASE CONTENTS
+Administrative reports.
+APPLICATION NAKE:
+YEAR ACTIVATED:
+BUdget ~y Contract
+Fiscal 1986
+APPLICATION DESCRIPTION
+Itemizes dollar amounts from each funding source that
+contri~utes to a contract.
+DATABASE CONTENTS
+Service contracts.
+1101---------------------------------------------------------------1I AGENCY: Dept. of M. Health, M. Retard. , Alco. Sere I
+1---------------------------------------------------------------1Page 2 of 2
+APPLICATION NAME:
+YEAR ACTIVATED:
+Priority Agency Review council
+Fiscal 1986
+APPLICATION DESCRIPTION
+Performance deficiencies (or lack thereof) are itemized for
+each service provider.
+DATABASE CONTENTS
+Management reporting.
+111AGENCY
+DEPARTMENT OF PARKS AND RECREATION
+830 Fifth Avenue, Room 305
+New York, N.Y.
+10021
+PUBLIC LIAISON
+Majorie Cadogan
+General Counsel
+MISSION STATEMENT
+I PHONE:
+212-360-8111
+I FAX:
+212-360-1339
+I PHONE:
+212-360-1313
+The Department of Parks and Recreation seeks to maintain a clean and safe park system
+that provides the public with a greener city and a wide variety of recreational
+opportunities. The City's municipal park system of more than 26,000 acres makes
+available to the public 622 ball fields, 529 tennis courts, 45 indoor and outdoor swimming
+pools, 29 recreation centers, 14 miles of beaches, 13 golf courses, 6 ice rinks, 4 major
+stadiums, and 3 zoos. The Agency is also responsible for approximately 700,000 street
+trees and 2 million park trees.
+1121----------------------------------------------------------------1I AGENCY: Department of Parks and Recreation Paqe 1 of 4 I
+1---------------------------------------------------------------1
+APPLXCATXON NAME: ABCD site Ratinq System
+YEAR ACTXVATED: 1984
+APPLXCATXON DESCRXPTXON
+The ABCD site Rating system maintains all ratings data on
+properties and playgrounds undergoing ABCD, Neighborhood Parks
+Restoration (NPR), AUdit, and Jointly operated Playqround
+inspections. The ratings are ~ased upon the conditions found
+in the parks during inspection. xnspections were suspended
+in June 1991.
+DATABASE CONTENTS I
+A4ministrative reports, building/structure inspections,
+inspection reports, public facilities inspections,
+public safety inspections, quality control inspections,
+inventory, parklands.
+APPLXCATXON NAME: capital projects Tracking system
+YEAR ACTXVATED: 1987
+APPLXCATXON DESCRXPTXON
+The capital Projects Tracking system (CPTS) is a project
+management tool for all capital projects. The system comprises
+five modUles: XnterFund Agreement, Management Services, Desiqn
+status, Construction, and a ConSUltant/Contractor database.
+DATABASE CONTENTS
+Capital construction contracts, capital ~udget/expenditures,
+address directory, contractor directory, capital construction
+contractors, capital projects, ~uilding constructions.
+APPLXCATION NAME: Computer Aided Drafting and Design
+YEAR ACTXVATED: 1987
+APPLXCATXON DESCRXPTION
+The CADD system provides automation of drafting and desiqn
+functions to the Parks Capital Projects Design unit.
+DATABASE CONTENTS
+Land use, capital projects, building modifications/repairs,
+building energy usage, building constructions.
+1131---------------------------------------------------------------1I AGENCY: Department of Parks and Recreation Paqe 2 of 4 I
+1---------------------------------------------------------------1
+APPLZCATZON NAME: Concession Billinq System
+YEAR ACTZVATED: 1989
+APPLZCATZON DESCRZPTZON
+CBS tracks contract information, leasinq, qross receipts,
+and payment records for all concession contracts. Report
+cateqories include Concessions Znformation, Permit znformation,
+Property/Location Reports, Billinq, Payments Reports, and
+Revenue Reports.
+DATABASE CONTENTS
+property amenities/concessions, parklands, insurance
+certificates, parks , recreation licenses, financial reportinq,
+revenue collection, revenue/expenditure statistics, vendor
+licenses/permits, fee collections/accountinq.
+APPLZCATZON NAME: Forestry Contractual Trackinq system
+YEAR ACTZVATED: 1989
+APPLZCATZON DESCRZPTZON
+This system consists of two modules. The Tree Znventory
+Hanaqement System (TRZHS) maintains the tree inventory, records
+complaints, schedules work orders, and records completed work
+for the street trees in New York City. Due to staffinq cuts,
+TRZHS is currently used on a limited basis. The Contractual
+Trackinq module maintains the records of all mainte~ance
+performed throuqh tree maintenance contracts.
+DATABASE CONTENTS
+Contractor directory, service contracts, service contractors,
+inventory, tree inspections/work orders.
+1141---------------------------------------------------------------1I AGENCY: Department of Parks and Recreation Page 3 of 4 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Inventory Control system
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+This system tracks all stock items carried in Parks'
+storehouses. Features include receipt of supplies, current
+inventory levels, orders, issuance, and loan and return. It
+allows Parks to develop a comprehensive purchasing strategy
+based on actual supply usage.
+DATABASE CONTENTS
+Vendor payments, vendor ~istory, other purchases, commodity
+purchases, purchase requisitions/orders, procurement,
+parklands, OTPS bUdget/expenditures, management reporting,
+inventory, financial reporting, commodities usage, commodities
+directory, address directory.
+APPLICATION NAME: Parklands Property List
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+The Parklands Property List maintains information on physical
+properties of all DPR owned and maintained parks and special
+facilities.
+DATABASE CONTENTS
+Waterfronts, infra-structure (other than bridges) inventory,
+property owners, city owned properties, landmark sites, land
+use, city owned property characteristics, inventory, parklands,
+administrative reports, address directory.
+APPLICATION NAME: Staffing Census Analysis
+YEAR ACTIVATED: 1989
+This program tracks permanent staffing and mobile crew
+assignments and usage statistics in all properties. A variety
+of statistical reports are produced from the data.
+DATABASE CONTENTS
+Manpower reports/statistics, parklands, personnel records,
+management reporting.
+1151---------------------------------------------------------------1I AGENCY: Department of Parks and Recreation Paqe 4 of 4 I
+1---------------------------------------------------------------1
+APPLZCATZON NAME: Work Order Trackinq System (WOTS)
+YEAR ACTZVATED: 1988
+APPLZCATZON DESCRZPTZON
+WOTS tracks all work requests aade to the technical shops and
+qenerates reports of completed and outstandin9 work orders.
+zt provides detailed reports for district operations staff,
+borouqh aanaqers and executives.
+DATABASE CONTENTS
+Buildinq aodifications/repairs, inspection reports, infra­
+structure (other than bridqes) inventory, buildinq/structure
+inspections, public facilities inspections, parklands,
+crime/fire/public hazard statistics, tree inspections/work
+orders, other.
+116AGENCY
+DEPARTMENT OF PERSONNEL
+2 Washington Street
+New York, N.Y.
+10004
+PUBLIC LIAISON
+Richard Cunningham
+Records Access Officer
+MISSION STATEMENT
+I PHONE:
+212-487-5779
+I FAX:
+212-487-5781
+I PHONE:
+212-487-6664
+The Department of Personnel recruits and identifies the best qualified candidates for City
+employment in a manner consistent with the State Constitution,Civil Service Law, and the
+laws governing equal employment opportunity. To accomplish this, the Department
+classifies positions, develops and administers competitive examinations, establishes
+minimum qualifications for positions, certifies lists of eligible applicants, and audits
+appointments and promotions. The Department identifies and monitors under
+representation of minorities and women at all levels of City government and helps
+agencies to develop remedial plans. In addition, the Department identifies the training
+needs of City employees, provides training, and develops and administers programs to
+increase productivity and improve the quality of work life for City employees.
+1171---------------------------------------------------------------1I AGENCY: Department of Personnel Paqe 1 of 3 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Application Production and Processinq System
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+This application allows the Department of Personnel to process
+applicants for civil Service examinations. civil Service
+examination test scores and eliqible lists are processed and
+maintained in this system.
+DATABASE CONTENTS
+Correspondences, personnel examination, administrative
+examination, fee collections/accountinq, skilled trades
+licensinq, and demoqraphi~ statistics.
+APPLICATION NAME: Certification Evaluation, Reportinq/Trackinq
+system
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+This application allows the Department of Personnel to maintain
+eliqible lists and to certify eliqibles to obtain job vacancies
+in civil Service tenured positions in various New York City
+d~partments.
+DATABASE CONTENTS
+Employee processinq, employ,e certifications, city employee/
+personnel, aUdits, administrative reports.
+APPLICATION NAME: Hanaqerial Analysis and Trackinq system
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+This application enables the Department of Personnel to perform
+analysis of the manaqerial titles throuqhout New York City
+qovernment. Hanaqerial allocations are tracked and analysis
+performed to determine the appropriateness of the title and
+type of manaqerial position.
+DATABASE CONTENTS
+Demoqraphic statistics, personnel records, manaqement
+reportinq, employee transactions, correspondences, city
+employee/personnel, administrative reports.
+1181---------------------------------------------------------------1I AGENCY: Department of Personnel Paqe 2 of 3 I
+1---------------------------------------------------------------1APPLICATION NAME: Monitor processinq system
+YEAR ACTIVATED: 1972
+APPLICATION DESCRIPTION
+This application tracks all of the monitorial staffinq for the
+administration of civil Service examinations and per diem
+assiqnments of monitors from a pool of employees. The system
+qenerates call notices to staff schools for the administration
+of examinations, computes the amount of pay hased on the hours
+worked and the hourly rate of pay in accordance with the level
+of assiqnment.
+DATABASE CONTENTS
+Correspondences, city employee/personnel employee, employee
+processinq, manpower reports/statistics, and manpower
+schedules.
+APPLICATION NAME: Personnel Investiqation Control and
+Trackinq system
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+This is a Case Trackinq system to support investiqation of
+applicants for various positions throuqhout New York City
+aqencies. These positions include competitive, permanent and
+discretionary hires.
+DATABASE CONTENTS
+Personnel records, manaqement reportinq, investiqations/
+confidential, employee processinq, employee transactions,
+employee skills, employee certifications, correspondences,
+city employee/personnel, city employee skills inventory,
+aUdits, administrative reports.
+APPLICATION NAME: Personnel Reportinq and Information System
+for Employees
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION
+This system allows the Department of Personnel to process
+all personnel transactions, audit New York City payroll and
+maintain employee personnel history on a citywide hasis.
+DATABASE CONTENTS
+Administrative reports, city employee payroll, aUdits, city
+employee/personnel, employee transactions, employee processinq,
+manaqement reportinq, manpower reports/statistics, personnel
+records, demoqraphic statistics, city employee absence/leave/
+statistics, address directory.
+1191---------------------------------------------------------------1I AGENCY: Department of Personnel Paqe 3 of 3 I
+1---------------------------------------------------------------1
+APPLZCATZON NAME: unemployment Insurance
+YEAR ACTIVATED: 1983
+APPLZCATIOH DESCRZPTION
+This application allows the Department of Personnel to track
+Unemployment Znsurance claims aqainst Hew York City and appeal
+decisions when termination is for cause. This system also
+provides a means to check for possible overpayment on claims.
+DATABASE CONTENTS
+City employee/personnel, personnel records, employee
+certifications.
+APPLICATION HAME: Citywide Equal Employment Database System
+YEAR ACTZVATED: 1991
+APPLICATION DESCRZPTION
+An Equal Employment opportunity database utilized to produce
+Federally mandated reports and statistical analysis of the
+City'S workforce and labor pools. The system also allows the
+Department of Personnel to identify and remedy manifest cases
+of under utilization.
+DATABASE CONTENTS
+Administrative reports, aUdits, city employee/personnel,
+employee transactions, manaqement reports, manpower reports/
+statistics, statistics/demoqraphic, applicant trackinq,
+complaint trackinq, traininq trackinq.
+120AGENCY
+POLICE DEPARTMENT
+One Police Plaza
+New York, N.Y.
+10036
+PUBLIC LIAISON
+Susan Rosenberg
+Assistant Commissioner, Civil Matters
+Office of Deputy Commissioner
+Legal Matters
+MISSION STATEMENT
+I PHONE:
+212-374-5336
+I FAX:
+212-571-5164
+I PHONE:
+212-374-5336
+The mission of the New York City Police Department is to enhance the quality of life in
+our City by working in partnership with the community and in accordance with
+constitutional rights to enforce the laws, preserve the peace, reduce fear, and provide for
+a safe environment.
+1211---------------------------------------------------------------1I AGENCY: Police Department Page 1 of 1 I
+1---------------------------------------------------------------1
+The NYC pOlice Department is in the process of reviewing database
+applications in order to prepare entries for inclusion in future
+editions the Public Data Directory.
+Pending publication of this information in future editions, the
+public liaison listed on the agency cover sheet is available to
+answer questions regarding access to computerized data.
+122AGENCY
+DEPARTMENT OF PROBATION
+115 Leonard Street
+New York, N.Y.
+10013
+PUBLIC LIAISON
+Karl Reinsons
+Director, Management Information Systems
+MISSION STATEMENT
+I PHONE:
+212-374-3110
+I FAX:
+212-374-3256
+I PHONE:
+212-374-3613
+The Department of Probation promotes public safety by providing community-oriented
+criminal justice penalties. The Department fulfills its responsibilities by supplying
+Criminal Court and Family Court with information and recommendations for court
+dispositions, by giving victims and their communities a voice in the justice process,
+supervising offenders through the monitoring and enforcing of their compliance with the
+conditions of probation, and providing counseling and access to rehabilitation services.
+1231---------------------------------------------------------------1I AGENCY: Department of Probation Paqe 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Differential supervision Proqram
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+This is a case trackinq system for sixty thousand probationers
+under supervision by the Department. The system tracks
+probationer demoqraphics data, risks assessment, rearrests,
+violations and outcome data.
+DATABASE CONTENTS
+Case trackinq of probationers under supervision, probationer
+demoqraphics data, rearrest data, violation data, outcome data,
+risk assessment, druq usaqe, early discharqe data.
+CONFIDENTIAL PROVISIONS
+9 HYCRR Sec. 350.11 and 9 HYCRR Sec. 351.8.
+APPLICATION NAME: Central Placement unit
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+This system administers the utilization of druq treatment slots
+by automatically matchinq probationer needs profile aqainst
+available treatment slots that correspond to those needs.
+DATABASE CONTENTS
+Probationer druq treatment needs profile, druq treatment slot
+availability, automated matchinq of needs profile to slot
+availability, treatment provider services profile.
+CONFIDENTIAL PROVISIONS
+42 CFR 2.1.
+124AGENCY
+OFFICE OF THE DEPUTY MAYOR FOR
+PUBLIC SAFETY (formerly, the OFFICE OF THE
+COORDINATOR OF CRIMINAL JUSTICE)
+250 Broadway, 14th Floor
+New York, N.Y.
+10007
+PUBLIC LIAISON
+Cynthia Peterson
+Executive Assistant - CJIS
+MISSION STATEMENT
+I PHONE:
+212-788-6764
+I FAX:
+212-788-6815
+I PHONE:
+212-788-6801
+The Office of the Deputy Mayor for Public Safety, which assumed responsibilities for the
+former Office of the Criminal Justice Coordinator, is responsible for overseeing various
+City agencies involved in the field of public safety, including the PoliceDepartment, Fire
+Department and Department of Correction, advising the Mayor on public safety policy
+issues as well as criminal justice matters, and coordinating the activities of agencies
+involved in the criminal justice system, including the Departments of Police, Correction,
+Probation and Juvenile Justice, the court system and the District Attorneys. Additional
+responsibilities include oversight of use of City funds for legal services to indigent
+defendants, funding of alternatives to incarceration programs, implementation of the City
+Court Facilities Master Plan; and the Mayor's Arson Strike Force. This Office also
+performs the duties of the Coordinator of Criminal Justice as provided in Section 13 of
+the New York City Charter.
+1251---------------------------------------------------------------1I AGENCY: Deputy Mayor for Public Safety Page 1 of 2 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Arrest to Arraignment Computer simulation
+Model
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This module is a simUlation model of the City's arrest to
+arraignment process. It utilized 1989 data to assist agencies
+in this process with bUdgeting and resource allocation
+decisions. As the database has not been updated, it is
+presently obsolete.
+DATABASE CONTENTS
+Arrests, criminal bookings.
+APPLICATION NAME: corporation Counsel Case Tracking system
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION
+A unified case tracking and management information system
+of juvenile Family Court cases processed by the City's
+Law Department, Family Court Division.
+DATABASE CONTENTS
+Children/confidential, juvenile delinquent, juvenile delinquent
+reports/statistics, investigations/confidential, crimes,
+arrests, management reporting, manpower reports/statistics,
+petitions, probation clients, research/planning, crime/fire/
+public hazard statistics, other.
+CONFIDENTIALITYREQUIREMENTS
+NYS Family Court Act, section 166.
+126I-------------------------------------------------~--- ----------1I AGENCY: Deputy Mayor for Public Safety Page 2 of 2 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Dept. of Probation Family Court Services
+System
+YEAR ACTIVATED: 1979
+APPLICATION DESCRIPTION
+Case tracking and management information data on juvenile
+delinquency and PINS (person in need of supervision) cases
+known to City Probation's Family Court Division.
+DATABASE CONTENTS
+Children/confidential, juvenile delinquent, juvenile delinquent
+reports/statistics, inve.tigations/confidential, crimes,
+arrests, management reporting, manpower reports/statistics,
+petitions, probation client reports/statistics, probation
+clients, research/planning, crime/fire/public hazard
+statistics, other.
+CONFIDENTIALITYREQUIREMENTS
+BYS Family Court Act, section 166.
+APPLICATION NAME: corporation Counsel System for the Handicapped
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+This system is a case-related database consisting of cases of
+juveniles on whose behalf petitions have been filed in the
+Family court, seeking provision of services available to children
+with handicapping conditions as defined in the New York State
+Education Law, section 4401.
+DATABASE CONTENTS
+Handicapped children, claims against City, financial
+accounting, administrative reports, miscellaneous billings,
+child care, education programs, grants/specific funded
+programs, management reporting, contractor payments, other.
+CONFIDENTIALITYREQUIREMENTS
+BYS Family Court Act, section 166.
+127AGENCY
+DEPARTMENT OF RECORDS AND
+INFORMATION SERVICES
+31 Chambers Street
+New York, N.Y.
+10007
+PUBLIC LIAISON
+William Considine
+Director of Administration
+MISSION STATEMENT
+I PHONE:
+212-788-8600
+FAX:
+I PHONE:
+212-788-8622
+The Department of Records and Information Services (D.O.R.I.S.) accessions, preserves
+and services all historical documents and publications generated by the City. The agency
+also provides records management services to all New York City agencies and makes
+available information about the City's services to the general public.
+To carry out its charter-mandated mission D.O.R.I.S. is subdivided into three functional
+divisions: the Municipal Records Management Division, the Municipal Archives and the
+Municipal Reference and Research Center also known as the Library.
+1281---------------------------------------------------------------1I AGENCY: Department of Records and Information Services I
+1---------------------------------------------------------------1Paqe 1 of 1
+APPLICATION NAME: Records and Information Kanaqement system
+(RIMS)
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+RIMS is an automated system to manaqe records for the city of
+New York includinq the records schedulinq process, records
+disposals and statistics, and accessioninq and retrieval from
+the records center.
+DATABASE CONTENTS
+Aqency certification, retention schedule development, records
+accessioninq, box expansion and box relocation, records
+requisition and refile, records destruction, statistics
+qeneration and reportinq.
+METHOD OF ACCESS
+Aqency records center holdinqs in RIMS are available to the
+public, with permission from the aqency havinq jurisdiction
+over the records.
+129AGENCY
+DEPARTMENT OF SANITATION
+125 Worth Street
+New York, N.Y.
+10013
+PUBLIC LIAISON
+Frank Valentino
+General Counsel
+MISSION STATEMENT
+I PHONE:
+212-566-1066
+I FAX:
+~12-837-8243
+I PHONE:
+212-837-8130
+The Department of Sanitation keeps the City clean by collecting and disposing of
+garbage, clearing the streets of litter, snow, and ice, cleaning debris from vacant lots,
+tagging and removing derelict vehicles, and enforcing Health and Administrative Code
+provisions, including rules governing the proper disposal of hazardous waste. In recent
+years, the Department has expanded its scope of responsibility to include the increasingly
+complex environmental problems facing the City. In addition to its traditional functions,
+the Department is focusing on three major issues: developing a long-term waste
+management strategy, improving agency operations to make them more environmentally
+sound, and enforcing stricter environmental laws and regulations.
+1301---------------------------------------------------------------1I AGENCY: Department of sanitation Page 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAME:
+YEAR ACTIVATED:
+Private Carter system
+1988
+APPLICATION DESCRIPTION
+Corporate information on private carters; and the amount of
+refuse collected and dumped in City owned facilities.
+DATABASE CONTENTS
+Financial accounting.
+APPLICATION NAME:
+YEAR ACTIVATED:
+sanitation Control and Analysis Network
+(SCAN)/Kanpower Allocation and Reporting
+1983
+APPLICATION DESCRIPTION
+This system retains information regarding the assignment of
+department personnel to the various duty posts.
+DATABASE CONTENTS
+Employees and assignment posts.
+131AGENCY
+OFFICE OF THE CITY SHERIFF
+31 Chambers Street
+New York, N.Y.
+10007
+PUBLIC LIAISON
+Jeannette McNulty
+Executive Assistant to the Sheriff
+MISSION STATEMENT
+I PHONE:
+212-788-8730
+I FAX:
+~12-766-9666
+I PHONE:
+212-788-8734
+The Sheriff is authorized to make collections resulting from Civil and Supreme Court
+proceedings and governmental agency actions. The primary function of the office is to
+serve as the chief collection entity for the City of New York in order to recover significant
+public sector debt.
+1321---------------------------------------------------------------1I AGENCY: Office of the City Sheriff Page 1 of 1 I
+1---------------------------------------------------------------1APPLICATION NAME: Sheriff's C~se Tracking system (Case Tracking)
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+Case Tracking keeps track of all Private Sector cases.
+Maintains information on enforcement and collection activities
+for cases assigned to this division.
+DATABASE CONTENTS
+Accounting - financial, payments - creditor/debtor - refunds,
+jUdgments, services, fees, poundage, processes - legal/civil,
+courts, bank information - account information, bank ­
+creditor/debtor, auction sales, payments types, monthly
+accounts, deputy case information.
+APPLICATION NAME: Sheriff's Business Tracking system (Business
+Tracking)
+YEAR ACTIVATED: 1991
+APPLICATION DESCRIPTION
+Business Tracking keeps track of all Public Sector cases.
+Maintains information on enforcement and collection activities
+for cases assigned to this division.
+DATABASE CONTENTS
+Debtor, creditor, jUdgments, services, fees, poundage,
+processes - legal/civil, payment types, monthly accounts,
+deputy case information.
+APPLICATION NAME: Scufflock Tow Program (Scoff tow)
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION
+This program keeps track of all vehicles towed by the Sheriff's
+Office for outstanding jUdgment summonses. It is updated with
+the total amount due for all summonses/violations as well as
+calculating all additional fees owed before the release of any
+vehicles.
+DATABASE CONTENTS
+Case number, seizure information - date - time, deputy
+information - shield, PVB Login ID, tow information - date ­
+tow company, plate number/vehicle ID/state/make/year,
+defendant/lienholder address, precinct, jUdgment amount, fees,
+purchaser address, PVB payments and payee information.
+133AGENCY
+TAXI AND LIMOUSINE COMMISSION
+221 W. 41st Street
+New York, N.Y.
+10036
+PUBLIC LIAISON
+Manuel Bu
+Director - Management Information Systems
+MISSION STATEMENT
+I PHONE:
+212-840-4520
+I FAX:
+212-840-5322
+I PHONE:
+212-840-4194
+The New York City Taxi and Limousine Commission licenses and regulates medallion
+taxicabs, for-hire vehicles and companies (bases), wheelchair-accessible vans, and the
+drivers of these vehicles. The Commission makes and enforces rules and regulations that
+govern these industries to safeguard the riding public from dishonest or unprofessional
+conduct by drivers, and to promote safe, clean, readily available, and reputable
+transportation services.
+134I-------------------------------~--------------------- ----------1I AGENCY: Taxi and Limousine Commission Page 1 of 2 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Centralized Safety and Inspection
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+This system inspects medallion taxicabs a m1n1mum of three
+(3) times per year. Three initial inspections and as many
+re-inspections as necessary to correct failed components,
+i.e. brakes, emission, alignment, etc.
+DATABASE CONTENTS
+Vehicle car make and model year, name and address of owner,
+results of inspection/re-inspection, items that pass, fail,
+advice given, notice to correct fault.
+APPLICATION NAME: complaint Tracking system
+YEAR ACTIVATED: 1984 - Revised 1989
+APPLICATION DESCRIPTION
+This system tracks summonses issued to drivers or vehicles
+licensed by the Taxi and Limousine Commission from date of
+issue to adjUdication.
+DATABASE CONTENTS
+Name and TLC license number of driver or vehicle, summons
+number, state driver license number, vehicle identification
+number, time, date and place of violation, rule number(s)
+violated, time and place of adjUdication hearing, name and
+number of hearing jUdge, disposition of summonses, fine
+amount and receipt number, (if any) for each summons.
+APPLICATION NAME: Driver on-line system and Reports
+YEAR ACTIVATED: 1984 - Revised 1989
+APPLICATION DESCRIPTION
+This system maintains all data on drivers licensed by the Taxi
+and Limousine Commission to operate yellow medallion cabs,
+for-hire vehicles, car services and limousines, para-transit
+ambulettes, as well as unlicensed drivers stopped while
+operating a vehicle.
+DATABASE CONTENTS
+Name and address, TLC driver number, state driver number,
+date of birth, social security number, height, weight, hair
+color, eye color, race, date license expires, telephone number
+and status of license.
+1351---------------------------------------------------------------1I AGENCY: Taxi and Limousine Commission Page 2 of 2 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Vehicle On-line Inquiry
+YEAR ACTIVATED: 1984 - Revised 1989
+APPLICATION DESCRIPTION
+This system maintains data on all vehicles licensed by the
+Taxi and Limousine Commission, yellow medallion cabs, for-hire
+vehicles, para-transit ambulettes as well as those vehicles
+stopped while operating without a license or with a expired
+license.
+DATABASE CONTENTS
+Name and address of owne~, TLC license number, telephone
+number, name and address of secretary if a corporation,
+insurance policy number, name and address of insurance carrier,
+license plate number, vehicle identification number, make and
+model year of vehicle, meter make and serial number if, a
+medallion cab, expiration date of license, status of license.
+136AGENCY
+DEP AR TMENT OF TELECOMMUNICATIONS
+AND ENERGY
+75 Park Place, 6th Floor
+New York, N.Y.
+10007
+PUBLIC LIAISON
+David E. Bronston, Esq.
+General Counsel, Records Access Officer
+MISSION STATEMENT
+I PHONE:
+212-788-6540
+I FAX:
+212-788-6551
+I PHONE:
+212-788-6540
+The Department of Telecommunications and Energy grants and enforces
+telecommunications franchises, revocable consents, and other contracts, including
+franchises for cable television. It also sets the City's telecommunications policy; develops
+the municipal cable television network; coordinates the interagency uses of cable; and
+manages the New York City Public Utility Service, which provides low-cost energy for
+economic development activity to qualified firms and develops the City's energy policy.
+The Department represents the City in proceedings before the State Public Service
+Commission, the State Commission on Cable Television, Federal Communications
+Commission, and the Federal Energy Regulatory Commission.
+1371---------------------------------------------------------------1I AGENCY: Department of Telecommunications and Energy I
+1---------------------------------------------------------------1Page 1 of 1
+APPLICATION NAME: Cable Television Construction status
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Status of cable television construction.
+DATABASE CONTENTS
+Cable television system construction statistics (updated
+quarterly), 'inclUding 'miles' of plant, homes passed, and
+subscribers.
+APPLICATION NAME: Cable Television Consumer complaint Summary
+YEAR ACTIVATED: Unknown
+APPLICATION DESCRIPTION
+Number and type of consumer complaints received by the agency
+regarding cable television service.
+DATABASE CONTENTS
+Consumer complaint statistics (updated monthly), including
+service, billing and other.
+138AGENCY
+DEPARTMENT OF TRANSPORTATION
+40 Worth Street
+New York, N.Y.
+10013
+PUBLIC LIAISON
+Theresa Stahling
+Assistant Commissioner
+MISSION STATEMENT
+I PHONE:
+212-323-8575
+FAX:
+I PHONE:
+212-566-4027
+The Department of Transportation is responsible for the safe and efficient movement of
+pedestrian and vehicular traffic throughout the City. The Department builds and
+maintains more than 5,800 miles of streets and highways and 846 bridges and tunnels, and
+issues and monitors franchises and revocable consents, processing more than 12 million
+summonses annually and providing an adjudicatory forum for those motorists who wish to
+contest parking summonses. The Department also operates and maintains the Staten
+Island Ferry and monitors private ferry services, regulates private bus companies, and
+operates a para transit system for people with disabilities.
+1391---------------------------------------------------------------1I AGENCY: Department of Transportation Paqe 1 of 11 I
+1---------------------------------------------------------------1
+Bureau of Administration
+APPLICATION NAME: Manaqement Oriented street Attrihutes
+Information Control System (MOSAICS ­
+Geosupport)
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+Manaqement Oriented Street Attrihutes Information Control
+system is an on-line system which uses qeosupport to track
+street related activities 'such as; street openinq permits,
+sidewalk violations, street capital projects, street
+maintenance and repairs, ,and manhole, canopy, vault, and
+telephone hooth permits.
+DATABASE CONTENTS
+Borouqh, Location, Cross streets, type of permit, capital
+project, inspection district, maintenance district.
+APPLICATION NAME: Pothole Identification
+YEAR ACTIVATED: 1985
+APPLICATION DESCRIPTION
+Database contains monthly pothole identification and repair
+information. Information is limited to seqment level
+summaries. A seqment represents a qeoqraphical area of 1
+to 1.5 miles.
+DATABASE CONTENTS
+Borouqh, community hoard, location, survey date, repair date,
+repair hours, asphalt used.
+APPLICATION NAME: Street Assessment
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+This database contains Street Assessment Survey ratinqs for 17
+to 25% of the hlocks in New York City for fiscal years 1987 ­
+1989. These hlocks were randomly selected and stratifies hy
+community hoards.
+DATABASE CONTENTS
+Borouqh, community hoard, seqment, sequence, ratinq.
+1401---------------------------------------------------------------1I AGENCY: Department of Transportation Page 2 of 11 I
+1---------------------------------------------------------------1
+Bureau of Traffic
+"APPLICATION NAKE: Car Inventory System (CIS)
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+contains vehicle maintenance history of cars owned by Bureau
+of Traffic
+DATABASE CONTENTS
+License plate, ID number, make, model,mileage, persons or units
+assigned to the vehicle, maintenance history.
+APPLICATION NAKE: Traffic Enf. Agent Issuance Rept. , Acct. Sys.
+(TIRAS)
+YEAR ACTIVATED: 1982
+APPLICATION DESCRIPTION
+Maintains the timekeeping for TEA's and records ticket
+issuance by TEA.
+DATABASE CONTENTS
+Name of TEA, Ticket issuance by TEA, timekeeping by TEA
+APPLICATION NAKE: Traffic Control Roster system
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+Tracks Personnel assignments and transfers.
+DATABASE CONTENTS
+Name of TEA, personnel assignments, transfers.
+1411---------------------------------------------------------------1I AGENCY: Department of Transportation Paqe 3 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Motorist Information computerize Exchanqe
+YEAR ACTIVATED: 1989
+APPLICATION DESCRIPTION
+All incidents reported to the Communication Center are loqqed
+and tracked, such as accidents, water main ~reaks, police
+calls, traffic tie-ups, emerqencies, and events.
+DATABASE CONTENTS
+All reported -incidents, location, type of accident, date, time.
+APPLICATION NAME: Accident Records Li~rary
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION
+Tracks fatalities ~y location. contains information such as
+date, precinct, time, location, vehicle(s), description of
+the accident.
+DATABASE CONTENTS:
+Dates, precinct, time, location, vehicle(s), and description.
+APPLICATION NAME: Transportation Aqency Permits System (TAPS)
+YEAR ACTIVATED: 1986
+APPLICATION DESCRIPTION
+contains parkinq permit data for permits issued to City
+Aqencies. It contains vehicle identification and the unit
+the permit is issued to.
+DATABASE CONTENTS
+Transportation licenses/permits.
+1421---------------------------------------------------------------1I AGENCY: Department of Transportation Page 4 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: parking Information Management (PIMS)
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+Inventory of parking meters, when they are installed or
+removed and rates and hours by meter.
+DATABASE CONTENTS:
+parking meters, management reporting.
+APPLICATION NAME: Vehicle Traffic Control System (VTCS)
+YEAR ACTIVATED: 1969
+APPLICATION DESCRIPTION
+Records traffic patterns in effect by time and place.
+Measurements at selected locations, including volume,
+speed of vehicles and lane occupancy.
+DATABASE CONTENTS:
+Traffic information.
+APPLICATION NAME: Preventative Signal Maintenance (PSM)
+YEAR ACTIVATED: 1969
+APPLICATION DESCRIPTION
+Tracks preventative maintenance and performance of signals,
+all activity by private contractors. Painting, cleaning and
+lubrication of control switch mechanisms by location.
+DATABASE CONTENTS:
+Service contractors, vendor payments.
+APPLICATION NAME: special Vehicle Identification (SVI)
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+Tracks individual parking permit issuance.
+DATABASE CONTENTS
+Transportation licenses/permits (parking), city planning
+licenses/permits (parking).
+1431---------------------------------------------------------------1I AGENCY: Department of Transportation Page 5 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: street Lighting (SL)
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+Tracks contractors service by time and location, records
+street light complaints by time and location. Maintains
+street light inventory identifying types, also tracks
+traffic light complaints.
+DATABASE CONTENTS
+Service contractors, street light inventory, street light
+complaints, traffic light complaints.
+APPLICATION NAME: Daily signal Maintenance (SGM)
+YEAR ACTIVATED: 1981
+APPLICATION DESCRIPTION
+Tracks complaints by time and location, tracks contractors
+service, calculates liquidated damages for lateness.
+DATABASE CONTENTS:
+Service contractors (track times, calculate liquidated damages
+for lateness), vendor payments, other complaints (by time'
+location).
+APPLICATION NAME: sign, Traffic, Accidents Terminal User System
+(STATUS)
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION
+Inventory of traffic control/regulation signs and a description
+of them. There is no accident data kept.
+DATABASE CONTENTS
+Infra-structure (other than bridges) inventory, traffic signs,
+city streets/addresses/zoning/election districts/political
+subdivisions/community boards.
+1441---------------------------------------------------------------1I AGENCY: Department of Transportation Paqe 6 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Vehicular Travel Time Reportinq system (VTTRS)
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+Sampled travel times by 16 cross streets and 12 avenues in
+Manhattan. Semi-annual reports with comparisons (2 day 12
+hour sample (7AN to 7PH) per study).
+DATABASE CONTENTS
+Air emissions complaints, manaqement reportinq, air quality,
+proqram reports, research/planninq, qrants/specific funded
+proqrams, transportation.,
+APPLICATION NAME: Tow Pound Information system (TOPIS)
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+Inventory of towed vehicles, dates they were in and out, plate
+number, state, make and color of the vehicle. Also location of
+the pound. For abandoned vehicles they maintain additional
+data for resale, owner name and vehicle identification number.
+DATABASE CONTENTS
+Administrative reports, abandoned vehicles.
+APPLICATION NAME: Air Quality Hodeling
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+supports air quality monitoring program.
+DATABASE CONTENTS:
+Transportation, proqram reports, research/planninq, capital
+construction contractors, capital projects, air quality.
+1451---------------------------------------------------------------1I AGENCY: Department of Transportation page 7 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAKE: Safe Teaa (S.A.F.E.)
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+Records fatalities, from police reports, physical
+circumstances, location, conditions, vehicles involved,
+casual factors, and recommendations.
+DATABASE CONTENTS;
+Fatality-information, location, vehicle(s),· and description.
+APPLICATION NAME: Tractor Trailer Accident Library (TRUCACC)
+YEAR ACTIVATED: 1987
+APPLICATION DESCRIPTION
+This is limited to Highways only. It contains data on
+location, time, number of fatalities, number of injured,
+whether a summons was issued, surface conditions, type of
+accident, number of lanes blocked, length of delay in traffic,
+and contributing factors.
+DATABASE CONTENTS:
+Fatality information, location, vehicle(s), and description.
+APPLICATION NAME: Traffic Count Process , Analysis System
+(TCPAS)
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+Average volume of vehicles by location, air emissions
+complaints, air quality.
+DATABASE CONTENTS
+Transportation, grantslspecific funded programs, researchl
+planning program reports, management reporting, air quality,
+air emissions complaints.
+1461---------------------------------------------------------------1I AGENCY: Department of Transportation Page 8 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: City Environmental Quality Review (CEQR)
+YEAR ACTIVATED: 1977
+APPLICATION DESCRIPTION
+Internal tracking of Project approval process by location
+(Borough, community Board), title, description, project manager
+for New York City initials, dates by phases to final approval.
+DATABASE CONTENTS:
+City planninqlicenses/permits, land use, e~vironmental review,
+research/planning, program reports, transportation.
+APPLICATION NAME: Computer Oriented Research project to StUdy
+the Expired (CORPSE)
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+Records fatalities, arrest/violation codes, location, date,
+time, conditions, drug/alcohol related, and inspector.
+DATABASE CONTENTS:
+Fatality information, dates, location, and description.
+Bureau of Bridges
+APPLICATION NAME: Bid Letting system
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION
+system maintains up-to-date listing of state and city item
+codes for all construction contracts. Also kept are records
+of cost of each item for every bid with every contract.
+DATABASE CONTENTS
+Bridges, contractors, capital Construction, contracts,
+Management Reporting
+1471---------------------------------------------------------------1I AGENCY: Department of Transportation Page 9 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAKE: Consultant Contracts
+YEAR ACTIVATED: 1978
+APPLICATION DESCRIPTION:
+Maintains listing of approved consultants for construction
+and rehabilitation projects and list of all jobs in bridge
+rehabilitation program.
+DATABASE CONTENTS
+Bridges,'contracts, capital' construction, Management Reporting,
+Payments, Projects/Programs, Statistics.
+APPLICATION NAKE: DOT BIN Inventory
+YEAR ACTIVATED: 1978
+APPLICATION DESCRIPTION
+A Listing of all New York City bridges maintained by NYC DOT.
+This list auqments state bridge inventory by adding information
+on bridges, such as pedestrian bridges, which do not show up in
+state listing.
+DATABASE CONTENTS
+Bridges, Inspections, Building/structure, statistics,
+Management Reporting.
+APPLICATION NAKE: Flagged Bridge Tracking - On-Line Version
+(FBT)
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+Maintains listings of all flag conditions reported to city for
+repair. Flags are divided into 3 types: Structural Emergency
+(red), Structural in need of repair (yellow), and Safety.
+DATABASE CONTENTS
+Bridges, Public Safety inspections, Management Reporting,
+statistics, Public Complaints.
+1481---------------------------------------------------------------1I AGENCY: Department of Transportation Page 10 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Flagged Bridge Tracking - Batch (HVS) Version
+YEAR ACTIVATED: 1978
+APPLICATION DESCRIPTION
+Uses same files as above, but is used for generating large
+reports in IBM Batch Mode.
+DATABASE CONTENTS
+Bridges, Public Safety inspections, Management Reporting,
+Statistics, Public Complaints.
+APPLICATION NAME: Microfilm Index
+YEAR ACTIVATED: 1984
+APPLICATION DESCRIPTION
+Maintains a list of drawings of all the cities bridges with
+a cross reference to where the original drawings are stored.
+DATABASE CONTENTS
+Bridges.
+APPLICATION NAME: Project Status Monitoring
+YEAR ACTIVATED: 1983
+APPLICATION DESCRIPTION
+Maintains milestone data for all bridges in rehabilitation
+program.
+DATABASE CONTENTS:
+Bridges, management reporting, capital construction contracts,
+projects/programs, miscellaneous statistics.
+1491---------------------------------------------------------------1I AGENCY: Department of Transportation Page 11 of 11 I
+1---------------------------------------------------------------1
+APPLICATION NAME: state BIN Inventory
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+A data base received froa New York State DOT of all state
+bridges with pertinent data, such as year built, length of
+bridge, etc.
+DATABASE CONTENTS:
+Manageaent reporting, aiscellaneous'statistics, building/
+structure inspections, bridges.
+APPLICATION NAME: Annual Bridge Report
+YEAR ACTIVATED:
+APPLICATION DESCRIPTION
+A syst.. used to combine information froa inspection reports
+to produce a report annually on actual condition of each of
+the cities bridges.
+DATABASE CONTENTS
+Bridges, Manageaent Reporting, Manpower Reports, Statistics,
+Projects/Programs, Tunnels.
+Parking Violations Bureau
+APPLICATION NAME: Summons Tracking Accounts Receivable Systea
+(STARS)
+YEAR ACTIVATED: 1988
+APPLICATION DESCRIPTION
+Vehicle registration, registered owner, parking summons,
+payment, disposition, and enforceaent information.
+DATABASE CONTENTS
+Fine collections/accounting, parking scofflaws.
+150AGENCY
+DEPARTMENT OF YOUTH SERVICES
+44 Court Street
+Brooklyn, N.Y.
+11201
+PUBLIC LIAISON
+E.S. Blecher
+Director - Management Information Systems
+MISSION STATEMENT
+I PHONE:
+718-4Q3-5200
+I FAX:
+718-330-0442
+PHONE:
+718-403-5241
+The Department of Youth Services administers State and local funds to provide services
+to the City's 2.1 million young people under 21 years of age. Through contracts with 541
+community-based organizations, the Department supports a broad array of youth
+development services. These include recreation, tutoring and remedial education,
+adolescent health, alcohol and substance abuse prevention, leadership development,
+residential services for runaway and homeless youngsters, and cultural enrichment
+programs to foster healthy growth and development of City youth. The Department also
+coordinates services sponsored by other government and private agencies and initiates
+programs and policy development to promote awareness of issues concerning youth.
+1511---------------------------------------------------------------1I AGENCY: Department of Youth Services Page 1 of 1 I
+1---------------------------------------------------------------1
+APPLICATION NAME: Youth Services Integrated Database (YBID)
+YEAR ACTIVATED: 1990
+APPLICATION DESCRIPTION
+The Department of Youth Services Integrated Database is a
+series of interconnected systems that track approximately
+700 contracts from the RFP process through negotiation and
+registration, and continues throughout the life of the
+document. All information both fiscal and programmatic is
+stored. The system tracks both in-house 'and contract agency
+fiscal affairs.
+DATABASE CONTENTS
+Financial accounting, management reporting, service contracts,
+demographic statistics, funding statistics, adolescent
+programs, child care programs, computer hardware inventory,
+computer software inventory, education programs, federal/state
+grants, federal/state reimbursements,
+152
