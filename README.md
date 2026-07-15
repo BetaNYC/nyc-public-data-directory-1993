@@ -10,11 +10,36 @@ This repository makes that document machine readable for the first time: **37 ag
 
 | Path | Contents |
 |---|---|
-| `data/public-data-directory-1993.json` | Full structured record: document metadata, plus each agency's address, public liaison, phone numbers, mission statement, and nested application entries |
-| `data/public-data-directory-1993-applications.csv` | Flat table of all 269 application records, one row per database |
+| `data/public-data-directory-1993.json` | Full structured record, **verbatim OCR values**: document metadata, plus each agency's address, public liaison, phone numbers, mission statement, and nested application entries |
+| `data/public-data-directory-1993-applications.csv` | Flat table of all 269 application records (verbatim), one row per database |
+| `data/public-data-directory-1993-clean.json` | **Spell-normalized edition** of the JSON (see "Two editions" below) |
+| `data/public-data-directory-1993-applications-clean.csv` | Spell-normalized edition of the applications table |
+| `data/agencies-1993.csv` | One row per agency: durable slug, normalized name, verbatim name, address, public liaison, phones, application count |
+| `data/agency-name-registry.csv` | Longitudinal agency-name registry, seeded with the 37 names observed in 1993 (see "Agency name registry" below) |
 | `source/1993-NYC-Public-Data-Directory.pdf` | The original scan (169 pages) |
 | `source/extracted-text.txt` | Raw OCR text layer, page by page, for full-text search |
-| `scripts/parse_directory.py` | The parser that produced the data files from the PDF |
+| `scripts/parse_directory.py` | The parser that produced the verbatim data files from the PDF |
+| `scripts/normalize_text.py` | Produces the clean edition from the verbatim JSON |
+| `scripts/build_agency_tables.py` | Produces the agency table and the name registry |
+
+## Two editions: verbatim and clean
+
+The **verbatim** files preserve the scan's OCR errors exactly as extracted and are the citation-grade source of truth. The **clean** files repair the typescript's known OCR substitutions (`q`→`g`, `z`/`x`→`i`, `k`/`h`→`m`, digit-for-letter, `~`) using a deterministic, dictionary-checked pass: a token is only changed when applying a known substitution yields a real word, plus a short hand-verified fix list for glued or double-error tokens. About 600 of roughly 17,000 tokens were repaired; anything that could not be confidently fixed remains verbatim. If a value matters, verify it against the PDF page in `pdf_page`.
+
+## Agency name registry
+
+`data/agency-name-registry.csv` is an authority file for NYC agency names over time. Each row is one observation of an agency name in a dated source:
+
+| Column | Meaning |
+|---|---|
+| `agency_slug` | Durable join key for the agency across sources and decades (e.g. `hpd`, `tlc`, `city-planning`) |
+| `observed_name` | The name exactly as the source styles it (normalized for OCR, not modernized) |
+| `observed_date` | Date or month of the source (`1993-04`) |
+| `source` | The document or system the name was observed in |
+| `source_detail` | Pointer for verification (PDF page, URL, notice ID) |
+| `notes` | Renames, merges, successor relationships, anything a future researcher needs |
+
+It is seeded with the 37 agencies of the 1993 directory. The intent is longitudinal: future sources append rows under the same slug, so the file accumulates each agency's naming history. The next planned source is the City Record (notices back to the early 2000s), which BetaNYC will be processing in a companion repository; its crawler can append one row per distinct agency-name spelling it encounters. When an agency is renamed or absorbed (for example, the 1993 Department of Personnel or Department of General Services, whose functions later moved to DCAS), record the relationship in `notes` on the newer observation rather than rewriting history on the older row.
 
 ## The data
 
@@ -42,10 +67,12 @@ Corrections are welcome. If you spot an OCR error against the scan, open an issu
 ## Reproducing the extraction
 
 ```bash
-uv run --with pypdf scripts/parse_directory.py
+uv run --with pypdf scripts/parse_directory.py   # PDF -> verbatim JSON + CSV
+python3 scripts/normalize_text.py                # verbatim JSON -> clean JSON + CSV
+python3 scripts/build_agency_tables.py           # verbatim JSON -> agency tables
 ```
 
-This reads `source/1993-NYC-Public-Data-Directory.pdf` and rewrites both files in `data/`.
+The pipeline reads `source/1993-NYC-Public-Data-Directory.pdf` and rewrites everything in `data/`.
 
 ## Why this matters
 
