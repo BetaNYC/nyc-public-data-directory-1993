@@ -89,6 +89,10 @@ Get involved:
 - 📰 [Subscribe to our weekly newsletter](https://beta.nyc)
 - 📅 [Come to an event](https://www.beta.nyc/events/)
 
-## License
+## License and provenance
 
-The parser (`scripts/`) is released under the [MIT License](LICENSE). The 1993 Public Data Directory is a publication of the City of New York and is in the public domain as a government record; the extracted data files in `data/` are dedicated to the public domain.
+This repository has three layers, licensed separately:
+
+- **Code** (`scripts/`) — [MIT License](LICENSE), © BetaNYC.
+- **Extracted data** (`data/`) — dedicated to the public domain under [CC0 1.0](DATA-LICENSE.md). Use it freely, no permission needed.
+- **Source document** (`source/`) — the 1993 Public Data Directory is a **public record of the City of New York** (COPIC, Office of the Mayor), published expressly for public access under NYC Charter § 1062. The facts within it are not subject to copyright. BetaNYC claims no rights over the City's underlying content; our CC0 dedication covers only our own contribution — the extraction, normalization, and structure. See [DATA-LICENSE.md](DATA-LICENSE.md) for the full provenance note.
