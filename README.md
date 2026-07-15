@@ -111,7 +111,7 @@ Get involved:
 - **[uv](https://docs.astral.sh/uv/)** (Astral) — the runner used to execute the scripts with pypdf.
 - The Unix **`words`** dictionary (`/usr/share/dict/words`) — the wordlist the normalizer checks OCR repairs against.
 - **Anthropic's Claude** (via Claude Code) — the AI coding assistant used to author the scripts, disclosed above under [How this was built](#how-this-was-built-and-our-use-of-ai).
-- The **New York City Commission on Public Information and Communication (COPIC)**, which produced the original directory, and the **New York Times Foundation**, whose grant funded its design and preparation in 1993.
+- The original 1993 directory, per its own acknowledgements: produced by the **New York City Commission on Public Information and Communication (COPIC)**; its design and preparation funded by a grant from the **New York Times Foundation**; with valuable assistance from the **Community Service Society** and the **Fund for the City of New York**.
 
 Consistent with BetaNYC's civic-tech ethos and [AI Policy](https://beta.nyc/about/ai-policy), the tooling favors open-source and deterministic methods: an open-source PDF library and a rule-based normalizer, rather than a model, do the actual work on the data.
 
