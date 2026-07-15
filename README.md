@@ -74,6 +74,22 @@ python3 scripts/build_agency_tables.py           # verbatim JSON -> agency table
 
 The pipeline reads `source/1993-NYC-Public-Data-Directory.pdf` and rewrites everything in `data/`.
 
+## How this was built, and our use of AI
+
+BetaNYC used an AI coding assistant (Anthropic's Claude, via Claude Code) to write the extraction and normalization scripts and to structure the data. We disclose this in keeping with [BetaNYC's AI Policy](https://beta.nyc/about/ai-policy) — specifically its transparency principle and its rule that AI-assisted analysis carries **methodology documentation, human verification, and disclosure**.
+
+Two points matter for anyone relying on this data:
+
+- **The data pipeline itself is deterministic — there is no AI/LLM inference in it.** AI helped author the code; the code then does the work by fixed rules. The scans's text is read with [pypdf](https://pypdf.readthedocs.io/), OCR field labels are repaired by an explicit substitution table, and the "clean" edition is normalized by a dictionary-checked pass that only changes a token when a known OCR substitution yields a real word (about 600 of ~17,000 tokens). No language model rewrote, guessed at, or invented any value. Re-running the scripts on the same PDF reproduces the same output.
+- **A human verified the output.** Every record carries a `pdf_page` so values can be checked against the scan; the record counts, structure, and a sample of values were verified against the source; and the **verbatim edition is preserved as the citation-grade ground truth** alongside the normalized one. Where the source is genuinely ambiguous, we left it verbatim rather than have a model resolve it.
+
+### Methodology
+
+1. **Extract** — read the PDF's embedded OCR text layer with pypdf (`parse_directory.py`).
+2. **Parse** — segment the typescript into agency profiles and 269 application records, fuzzy-matching OCR-garbled field labels so no record is lost.
+3. **Normalize** — produce a "clean" edition (`normalize_text.py`) via deterministic, dictionary-checked repair of the known 1993-typescript OCR substitutions; the verbatim edition is kept untouched.
+4. **Structure** — emit JSON + CSV and build the agency-name registry with durable `agency_slug` keys (`build_agency_tables.py`).
+
 ## Why this matters
 
 The 1993 directory is a census of municipal computing at a specific moment: mainframe payroll tapes, COBOL-era claim systems, and the first generation of agency databases, each with a named human being you could call. Comparing it with today's [NYC Open Data catalog](https://opendata.cityofnewyork.us/) shows how far public access has come, and which systems quietly persisted for decades.
@@ -88,6 +104,16 @@ Get involved:
 - 🛠️ [Become a BetaBuilder](https://beta.nyc/donate)
 - 📰 [Subscribe to our weekly newsletter](https://beta.nyc)
 - 📅 [Come to an event](https://www.beta.nyc/events/)
+
+## Acknowledgments
+
+- **[pypdf](https://pypdf.readthedocs.io/)** — the pure-Python PDF library used to read the scan's text layer. The only third-party dependency; the rest of the pipeline is the Python standard library.
+- **[uv](https://docs.astral.sh/uv/)** (Astral) — the runner used to execute the scripts with pypdf.
+- The Unix **`words`** dictionary (`/usr/share/dict/words`) — the wordlist the normalizer checks OCR repairs against.
+- **Anthropic's Claude** (via Claude Code) — the AI coding assistant used to author the scripts, disclosed above under [How this was built](#how-this-was-built-and-our-use-of-ai).
+- The **New York City Commission on Public Information and Communication (COPIC)**, which produced the original directory, and the **New York Times Foundation**, whose grant funded its design and preparation in 1993.
+
+Consistent with BetaNYC's civic-tech ethos and [AI Policy](https://beta.nyc/about/ai-policy), the tooling favors open-source and deterministic methods: an open-source PDF library and a rule-based normalizer, rather than a model, do the actual work on the data.
 
 ## License and provenance
 
