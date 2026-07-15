@@ -85,10 +85,9 @@ BetaNYC is a civic organization dedicated to improving lives in New York through
 Get involved:
 
 - 🌐 [beta.nyc](https://beta.nyc)
-- 💬 [Join our Slack community](https://slack.beta.nyc/)
+- 🛠️ [Become a BetaBuilder](https://beta.nyc/donate)
 - 📰 [Subscribe to our weekly newsletter](https://beta.nyc)
 - 📅 [Come to an event](https://www.beta.nyc/events/)
-- ❤️ [Support our work](https://beta.nyc/donate)
 
 ## License
 
